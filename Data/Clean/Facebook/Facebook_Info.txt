@@ -6,7 +6,7 @@
 
 #40 packets seen, 33 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.025569, 1564 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.037116, 1077 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:14.516512
 
@@ -22,7 +22,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.019032, 893 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.018238, 932 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.160668
 
@@ -38,7 +38,7 @@
 
 #23 packets seen, 17 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.015123, 1520 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.047437, 484 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:06.206826
 
@@ -54,7 +54,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.009587, 1773 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.022131, 768 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.156170
 
@@ -70,7 +70,7 @@
 
 #16 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.010094, 1585 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.020367, 785 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:01.343809
 
@@ -86,7 +86,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.009569, 1776 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.016560, 1026 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.159700
 
@@ -102,7 +102,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.009801, 1734 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.017940, 947 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:02.045827
 
@@ -118,7 +118,7 @@
 
 #18 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.009956, 1807 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.017869, 1007 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.159531
 
@@ -134,7 +134,7 @@
 
 #42 packets seen, 40 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.019899, 2110 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.100510, 417 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:01.463184
 
@@ -150,7 +150,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.011246, 1511 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.022629, 751 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.152916
 
@@ -166,7 +166,7 @@
 
 #16 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.011137, 1436 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.016166, 989 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:01.330777
 
@@ -182,7 +182,7 @@
 
 #18 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.094831, 189 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.017470, 1030 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:01.524528
 
@@ -198,7 +198,7 @@
 
 #16 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.017471, 915 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.019232, 831 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.490410
 
@@ -214,7 +214,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.017931, 948 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.012795, 1328 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:03.185633
 
@@ -230,7 +230,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.014204, 1196 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.014420, 1178 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.155090
 
@@ -246,7 +246,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.014987, 1000 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.012501, 1199 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.151198
 
@@ -262,7 +262,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.013991, 1072 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.014344, 1045 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.149991
 
@@ -278,7 +278,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.016847, 1009 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.015015, 1132 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.152953
 
@@ -294,7 +294,7 @@
 
 #16 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.016540, 967 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.011514, 1389 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.911194
 
@@ -310,7 +310,7 @@
 
 #19 packets seen, 18 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.014794, 1284 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.012137, 1565 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:01.314692
 
@@ -326,7 +326,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.012793, 1172 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.014233, 1053 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.161036
 
@@ -342,7 +342,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.013411, 1267 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.010641, 1597 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.149841
 
@@ -358,7 +358,7 @@
 
 #16 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.014533, 1100 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.011617, 1377 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:01.042153
 
@@ -374,7 +374,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.012412, 1208 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.012272, 1222 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.156033
 
@@ -390,7 +390,7 @@
 
 #19 packets seen, 17 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.014132, 1344 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.014153, 1342 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.232084
 
@@ -406,7 +406,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.014123, 1062 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.013874, 1081 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.155798
 
@@ -422,7 +422,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.011967, 1253 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.012359, 1213 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.149949
 
@@ -438,7 +438,7 @@
 
 #17 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.012530, 1356 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.011891, 1429 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.149279
 
@@ -454,7 +454,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.014340, 1046 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.012339, 1215 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.168113
 
@@ -470,7 +470,7 @@
 
 #15 packets seen, 15 TCP packets traced
 
-#elapsed wallclock time: 0:00:00.012209, 1228 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.018457, 812 pkts/sec analyzed
 
 #trace file elapsed time: 0:00:00.149685
 

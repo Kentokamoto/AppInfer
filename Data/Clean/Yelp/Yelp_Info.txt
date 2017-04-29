@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp01.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#127 packets seen, 120 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.089400, 1420 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.933405
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp02.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#138 packets seen, 132 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.037472, 3682 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.878091
+
+#TCP connection info:
+
+#8 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp03.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#125 packets seen, 121 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.034278, 3646 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.984784
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp04.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#122 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.038572, 3162 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.903937
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp05.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#131 packets seen, 125 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.061651, 2124 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.160681
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp06.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#126 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.035129, 3586 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.916952
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp07.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#127 packets seen, 121 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.065652, 1934 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.986958
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp08.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#128 packets seen, 123 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.035097, 3647 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.395896
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp09.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#124 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.036379, 3408 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.938534
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp10.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#123 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.029678, 4144 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.908153
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp11.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#133 packets seen, 125 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.055742, 2385 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.923126
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp12.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#125 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.036626, 3412 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.042238
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp13.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#124 packets seen, 116 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.026746, 4636 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.019506
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp14.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#127 packets seen, 123 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.031248, 4064 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.916402
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp15.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#126 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.027413, 4596 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.909938
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp16.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#127 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.029242, 4343 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.960981
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp17.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#129 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.029564, 4363 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.549733
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp18.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#130 packets seen, 127 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.035591, 3652 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:02.063035
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp19.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#131 packets seen, 125 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.063654, 2058 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.926538
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp20.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#127 packets seen, 123 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.034359, 3696 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.953967
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp21.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#131 packets seen, 125 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.034703, 3774 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:02.623063
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp22.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#125 packets seen, 119 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.036149, 3457 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.937379
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp23.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#127 packets seen, 124 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.024626, 5157 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.732977
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp24.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#130 packets seen, 126 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.057901, 2245 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.932615
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp25.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#131 packets seen, 123 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.033817, 3873 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:02.150506
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp26.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#123 packets seen, 121 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.030053, 4092 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.945491
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp27.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#132 packets seen, 122 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.060783, 2171 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.915441
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp28.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#121 packets seen, 121 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.038979, 3104 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.934538
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp29.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#129 packets seen, 123 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.037158, 3471 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:01.042238
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
+#1 arg remaining, starting with './Data/Raw/Yelp/Yelp30.pcapng'
+
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+
+
+#123 packets seen, 121 TCP packets traced
+
+#elapsed wallclock time: 0:00:00.034051, 3612 pkts/sec analyzed
+
+#trace file elapsed time: 0:00:00.921026
+
+#TCP connection info:
+
+#6 TCP connections traced:
+
