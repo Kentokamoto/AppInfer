@@ -1,0 +1,89 @@
+conn+AF8AIw-,,,1,,2,,3
+host+AF8-a,,,192.168.2.3,,192.168.2.3,,192.168.2.3
+host+AF8-b,,,den03s10+AC0-in+AC0-f17.1e100.net,,den03s10+AC0-in+AC0-f17.1e100.net,,den03s10+AC0-in+AC0-f17.1e100.net
+port+AF8-a,,,52168,,44663,,59914
+port+AF8-b,,,443,,443,,443
+first+AF8-packet,,,1492059414.4648,,1492059414.46499,,1492059414.56358
+last+AF8-packet,,,1492059414.64531,,1492059414.6453,,1492059414.74021
+total+AF8-packets+AF8-a2b,,,11,,10,,7
+total+AF8-packets+AF8-b2a,,,9,,9,,6
+resets+AF8-sent+AF8-a2b,,,0,,0,,0
+resets+AF8-sent+AF8-b2a,,,0,,0,,0
+ack+AF8-pkts+AF8-sent+AF8-a2b,,,10,,9,,6
+ack+AF8-pkts+AF8-sent+AF8-b2a,,,9,,9,,6
+pure+AF8-acks+AF8-sent+AF8-a2b,,,7,,6,,3
+pure+AF8-acks+AF8-sent+AF8-b2a,,,2,,2,,3
+sack+AF8-pkts+AF8-sent+AF8-a2b,,,3,,3,,0
+sack+AF8-pkts+AF8-sent+AF8-b2a,,,0,,0,,0
+dsack+AF8-pkts+AF8-sent+AF8-a2b,,,1,,1,,0
+dsack+AF8-pkts+AF8-sent+AF8-b2a,,,0,,0,,0
+max+AF8-sack+AF8-blks/ack+AF8-a2b,,,1,,1,,0
+max+AF8-sack+AF8-blks/ack+AF8-b2a,,,0,,0,,0
+unique+AF8-bytes+AF8-sent+AF8-a2b,,,932,,873,,1206
+unique+AF8-bytes+AF8-sent+AF8-b2a,,,3708,,4343,,586
+actual+AF8-data+AF8-pkts+AF8-a2b,,,3,,3,,3
+actual+AF8-data+AF8-pkts+AF8-b2a,,,6,,6,,2
+actual+AF8-data+AF8-bytes+AF8-a2b,,,932,,873,,1206
+actual+AF8-data+AF8-bytes+AF8-b2a,,,3983,,4618,,586
+rexmt+AF8-data+AF8-pkts+AF8-a2b,,,0,,0,,0
+rexmt+AF8-data+AF8-pkts+AF8-b2a,,,1,,1,,0
+rexmt+AF8-data+AF8-bytes+AF8-a2b,,,0,,0,,0
+rexmt+AF8-data+AF8-bytes+AF8-b2a,,,275,,275,,0
+zwnd+AF8-probe+AF8-pkts+AF8-a2b,,,0,,0,,0
+zwnd+AF8-probe+AF8-pkts+AF8-b2a,,,0,,0,,0
+zwnd+AF8-probe+AF8-bytes+AF8-a2b,,,0,,0,,0
+zwnd+AF8-probe+AF8-bytes+AF8-b2a,,,0,,0,,0
+outoforder+AF8-pkts+AF8-a2b,,,0,,0,,0
+outoforder+AF8-pkts+AF8-b2a,,,1,,1,,0
+pushed+AF8-data+AF8-pkts+AF8-a2b,,,3,,3,,3
+pushed+AF8-data+AF8-pkts+AF8-b2a,,,4,,4,,2
+SYN/FIN+AF8-pkts+AF8-sent+AF8-a2b,,,            1/0,,            1/0,,            1/0
+SYN/FIN+AF8-pkts+AF8-sent+AF8-b2a,,,            1/0,,            1/0,,            1/0
+req+AF8-1323+AF8-ws/ts+AF8-a2b,,,            Y/Y,,            Y/Y,,            Y/Y
+req+AF8-1323+AF8-ws/ts+AF8-b2a,,,            Y/Y,,            Y/Y,,            Y/Y
+adv+AF8-wind+AF8-scale+AF8-a2b,,,6,,6,,6
+adv+AF8-wind+AF8-scale+AF8-b2a,,,7,,7,,7
+req+AF8-sack+AF8-a2b,,,              Y,,              Y,,              Y
+req+AF8-sack+AF8-b2a,,,              Y,,              Y,,              Y
+sacks+AF8-sent+AF8-a2b,,,3,,3,,0
+sacks+AF8-sent+AF8-b2a,,,0,,0,,0
+urgent+AF8-data+AF8-pkts+AF8-a2b,,,0,,0,,0
+urgent+AF8-data+AF8-pkts+AF8-b2a,,,0,,0,,0
+urgent+AF8-data+AF8-bytes+AF8-a2b,,,0,,0,,0
+urgent+AF8-data+AF8-bytes+AF8-b2a,,,0,,0,,0
+mss+AF8-requested+AF8-a2b,,,1460,,1460,,1460
+mss+AF8-requested+AF8-b2a,,,1380,,1380,,1380
+max+AF8-segm+AF8-size+AF8-a2b,,,638,,579,,638
+max+AF8-segm+AF8-size+AF8-b2a,,,1374,,1374,,424
+min+AF8-segm+AF8-size+AF8-a2b,,,126,,126,,51
+min+AF8-segm+AF8-size+AF8-b2a,,,262,,262,,162
+avg+AF8-segm+AF8-size+AF8-a2b,,,310,,290,,401
+avg+AF8-segm+AF8-size+AF8-b2a,,,663,,769,,292
+max+AF8-win+AF8-adv+AF8-a2b,,,95872,,95872,,88704
+max+AF8-win+AF8-adv+AF8-b2a,,,44800,,44672,,44800
+min+AF8-win+AF8-adv+AF8-a2b,,,87616,,87616,,87616
+min+AF8-win+AF8-adv+AF8-b2a,,,43520,,43520,,43520
+zero+AF8-win+AF8-adv+AF8-a2b,,,0,,0,,0
+zero+AF8-win+AF8-adv+AF8-b2a,,,0,,0,,0
+avg+AF8-win+AF8-adv+AF8-a2b,,,90368,,90062,,87797
+avg+AF8-win+AF8-adv+AF8-b2a,,,43840,,43808,,44032
+initial+AF8-window+AF8-bytes+AF8-a2b,,,168,,168,,517
+initial+AF8-window+AF8-bytes+AF8-b2a,,,3023,,3023,,162
+initial+AF8-window+AF8-pkts+AF8-a2b,,,1,,1,,1
+initial+AF8-window+AF8-pkts+AF8-b2a,,,3,,3,,1
+ttl+AF8-stream+AF8-length+AF8-a2b,,,             NA,,             NA,,             NA
+ttl+AF8-stream+AF8-length+AF8-b2a,,,             NA,,             NA,,             NA
+missed+AF8-data+AF8-a2b,,,             NA,,             NA,,             NA
+missed+AF8-data+AF8-b2a,,,             NA,,             NA,,             NA
+truncated+AF8-data+AF8-a2b,,,0,,0,,0
+truncated+AF8-data+AF8-b2a,,,0,,0,,0
+truncated+AF8-packets+AF8-a2b,,,0,,0,,0
+truncated+AF8-packets+AF8-b2a,,,0,,0,,0
+data+AF8-xmit+AF8-time+AF8-a2b,,,0.076,,0.076,,0.058
+data+AF8-xmit+AF8-time+AF8-b2a,,,0.118,,0.116,,0.121
+idletime+AF8-max+AF8-a2b,,,94.9,,94.9,,111.9
+idletime+AF8-max+AF8-b2a,,,140,,136.4,,66.7
+hardware+AF8-dups+AF8-a2b,,,0,,0,,0
+hardware+AF8-dups+AF8-b2a,,,0,,0,,0
+throughput+AF8-a2b,,,5163,,4842,,6828
+throughput+AF8-b2a,,,20541,,24086,,3318

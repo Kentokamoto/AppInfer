@@ -1,6 +1,6 @@
-import pandas as pd
+# Custom Python file Load
+import organizeData as od
 from subprocess import Popen, PIPE,call
-
 
 # Create the csv file
 def createCSVFile(f,index):
@@ -43,21 +43,12 @@ def moveComments(infoFile, appName, index):
         print("Error Couldn't open file to read (moveComments)")
     with f:
         for i in range(8):
-            print(lines[i],file=infoFile)
+            print(lines[i].rstrip(),file=infoFile)
 
         for i in range(8,len(lines)):
-                print(lines[i],file=f)
+                print(lines[i]rstrip(),file=f)
 
         f.close()
-
-
-
-
-# Condense the csv file so it is in proper order for scikitlearn
-def cleanData(f,index):
-    outputFile ="./Data/Clean/" + f + "/" +app+"%02d"%index+".csv"  #CSV File Name
-
-    fb = pd.read_csv(outputFile)
 
 
 
@@ -78,4 +69,4 @@ with infoFile:
     for i in range(1,31):
         createCSVFile(app,i)
         moveComments(infoFile,app,i)
-
+        od.cleanData(app, i) 
