@@ -1,0 +1,156 @@
+import math as m
+import pandas as pd
+
+doAll = ['total_packets_a2b',
+        'total_packets_b2a',
+        'ack_pkts_sent_a2b',
+        'ack_pkts_sent_b2a',
+        'pure_acks_sent_a2b',
+        'pure_acks_sent_b2a',
+        'sack_pkts_sent_a2b',
+        'sack_pkts_sent_b2a',
+        'dsack_pkts_sent_a2b',
+        'dsack_pkts_sent_b2a',
+        'max_sack_blks/ack_a2b',
+        'max_sack_blks/ack_b2a',
+        'unique_bytes_sent_a2b',
+        'unique_bytes_sent_b2a',
+        'actual_data_pkts_a2b',
+        'actual_data_pkts_b2a',
+        'actual_data_bytes_a2b',
+        'actual_data_bytes_b2a',
+        'rexmt_data_pkts_a2b',
+        'rexmt_data_pkts_b2a',
+        'rexmt_data_bytes_a2b',
+        'rexmt_data_bytes_b2a',
+        'zwnd_probe_pkts_a2b',
+        'zwnd_probe_pkts_b2a',
+        'zwnd_probe_bytes_a2b',
+        'zwnd_probe_bytes_b2a',
+        'outoforder_pkts_a2b',
+        'outoforder_pkts_b2a',
+        'pushed_data_pkts_a2b',
+        'pushed_data_pkts_b2a'
+        ]
+
+
+special = ['SYN/FIN_pkts_sent_a2b',
+        'SYN/FIN_pkts_sent_b2a'
+		]
+
+avgOnly = [conn_#				1		2		3
+host_a				192.168.2.3		192.168.2.3		192.168.2.3
+host_b				den03s10-in-f17.1e100.net		den03s10-in-f17.1e100.net		den03s10-in-f17.1e100.net
+port_a				52168		44663		59914
+port_b				443		443		443
+first_packet				1492059414.4648		1492059414.46499		1492059414.56358
+last_packet				1492059414.64531		1492059414.6453		1492059414.74021
+total_packets_a2b				11		10		7
+total_packets_b2a				9		9		6
+resets_sent_a2b				0		0		0
+resets_sent_b2a				0		0		0
+ack_pkts_sent_a2b				10		9		6
+ack_pkts_sent_b2a				9		9		6
+pure_acks_sent_a2b				7		6		3
+pure_acks_sent_b2a				2		2		3
+sack_pkts_sent_a2b				3		3		0
+sack_pkts_sent_b2a				0		0		0
+dsack_pkts_sent_a2b				1		1		0
+dsack_pkts_sent_b2a				0		0		0
+max_sack_blks/ack_a2b				1		1		0
+max_sack_blks/ack_b2a				0		0		0
+unique_bytes_sent_a2b				932		873		1206
+unique_bytes_sent_b2a				3708		4343		586
+actual_data_pkts_a2b				3		3		3
+actual_data_pkts_b2a				6		6		2
+actual_data_bytes_a2b				932		873		1206
+actual_data_bytes_b2a				3983		4618		586
+rexmt_data_pkts_a2b				0		0		0
+rexmt_data_pkts_b2a				1		1		0
+rexmt_data_bytes_a2b				0		0		0
+rexmt_data_bytes_b2a				275		275		0
+zwnd_probe_pkts_a2b				0		0		0
+zwnd_probe_pkts_b2a				0		0		0
+zwnd_probe_bytes_a2b				0		0		0
+zwnd_probe_bytes_b2a				0		0		0
+outoforder_pkts_a2b				0		0		0
+outoforder_pkts_b2a				1		1		0
+pushed_data_pkts_a2b				3		3		3
+pushed_data_pkts_b2a				4		4		2
+SYN/FIN_pkts_sent_a2b				            1/0		            1/0		            1/0
+SYN/FIN_pkts_sent_b2a				            1/0		            1/0		            1/0
+req_1323_ws/ts_a2b				            Y/Y		            Y/Y		            Y/Y
+req_1323_ws/ts_b2a				            Y/Y		            Y/Y		            Y/Y
+adv_wind_scale_a2b				6		6		6
+adv_wind_scale_b2a				7		7		7
+req_sack_a2b				              Y		              Y		              Y
+req_sack_b2a				              Y		              Y		              Y
+sacks_sent_a2b				3		3		0
+sacks_sent_b2a				0		0		0
+urgent_data_pkts_a2b				0		0		0
+urgent_data_pkts_b2a				0		0		0
+urgent_data_bytes_a2b				0		0		0
+urgent_data_bytes_b2a				0		0		0
+mss_requested_a2b				1460		1460		1460
+mss_requested_b2a				1380		1380		1380
+max_segm_size_a2b				638		579		638
+max_segm_size_b2a				1374		1374		424
+min_segm_size_a2b				126		126		51
+min_segm_size_b2a				262		262		162
+avg_segm_size_a2b				310		290		401
+avg_segm_size_b2a				663		769		292
+max_win_adv_a2b				95872		95872		88704
+max_win_adv_b2a				44800		44672		44800
+min_win_adv_a2b				87616		87616		87616
+min_win_adv_b2a				43520		43520		43520
+zero_win_adv_a2b				0		0		0
+zero_win_adv_b2a				0		0		0
+avg_win_adv_a2b				90368		90062		87797
+avg_win_adv_b2a				43840		43808		44032
+initial_window_bytes_a2b				168		168		517
+initial_window_bytes_b2a				3023		3023		162
+initial_window_pkts_a2b				1		1		1
+initial_window_pkts_b2a				3		3		1
+ttl_stream_length_a2b				             NA		             NA		             NA
+ttl_stream_length_b2a				             NA		             NA		             NA
+missed_data_a2b				             NA		             NA		             NA
+missed_data_b2a				             NA		             NA		             NA
+truncated_data_a2b				0		0		0
+truncated_data_b2a				0		0		0
+truncated_packets_a2b				0		0		0
+truncated_packets_b2a				0		0		0
+data_xmit_time_a2b				0.076		0.076		0.058
+data_xmit_time_b2a				0.118		0.116		0.121
+idletime_max_a2b				94.9		94.9		111.9
+idletime_max_b2a				140		136.4		66.7
+hardware_dups_a2b				0		0		0
+hardware_dups_b2a				0		0		0
+throughput_a2b				5163		4842		6828
+throughput_b2a				20541		24086		3318
+u
+
+# Condense the csv file so it is in proper order for scikitlearn
+def cleanData(f,index):
+    outputFile ="./Data/Clean/" + f + "/" +f+"%02d"%index+".csv"  #CSV File Name
+    
+    fb = pd.read_csv(outputFile)
+    # Lists are 1 indexed so need to be changed so they are 0 indexed
+    many = [8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 22, 23, 24]
+    many.extend([ 25, 26, 27, 36, 37, 38, 39, 48, 49, 50, 51])
+    many.extend([52, 53, 54, 55, 70, 71, 72, 73, 88, 89])
+    avg = [44, 45, 60, 61]
+    lMax = [56, 57, 62, 63, 84, 85]
+    lMin = [58, 59, 64, 65]
+    tot = [82, 83]
+    
+    for row, index in fb.iterrows():
+        first = fb.iloc[row,5]
+        last = fb.iloc[row,6]
+        final = getDeltaTime(first, last)
+        fb['delta'] = final 
+
+#Calculate the delta time
+def getDeltaTime(initial, final):
+    return m.fabs(final - initial)
+
+

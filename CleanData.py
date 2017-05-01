@@ -46,7 +46,7 @@ def moveComments(infoFile, appName, index):
             print(lines[i].rstrip(),file=infoFile)
 
         for i in range(8,len(lines)):
-                print(lines[i]rstrip(),file=f)
+                print(lines[i].rstrip(),file=f)
 
         f.close()
 

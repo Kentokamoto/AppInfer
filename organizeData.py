@@ -33,12 +33,12 @@ doAll = ['total_packets_a2b',
         'pushed_data_pkts_b2a',
         'sacks_sent_a2b',
         'sacks_sent_b2a',
-        'urgent_data_pkts_a2b'
+        'urgent_data_pkts_a2b',
         'urgent_data_pkts_b2a',
         'urgent_data_bytes_a2b',
         'urgent_data_bytes_b2a',
         'mss_requested_a2b',
-        'mss_requested_b2a'
+        'mss_requested_b2a',
         'avg_win_adv_a2b',
         'avg_win_adv_b2a',
         'initial_window_bytes_a2b',
@@ -49,7 +49,7 @@ doAll = ['total_packets_a2b',
         'data_xmit_time_b2a',
         'idletime_max_a2b',
         'idletime_max_b2a',
-        'throughput_a2b'
+        'throughput_a2b',
         'throughput_b2a'
         ]
 
@@ -78,13 +78,25 @@ minOnly = ['min_segm_size_a2b'
 def cleanData(f,index):
     outputFile ="./Data/Clean/" + f + "/" +f+"%02d"%index+".csv"  #CSV File Name
     
-    fb = pd.read_csv(outputFile)
+    fb = pd.read_csv(outputFile,skipinitialspace=True)
     # Lists are 1 indexed so need to be changed so they are 0 indexed
     for row, index in fb.iterrows():
         first = fb.iloc[row,5]
         last = fb.iloc[row,6]
         final = getDeltaTime(first, last)
         fb['delta'] = final 
+    
+    for item in doAll:
+        output = item + ":" + str(fb[item].mean()) + " "
+        output +=  " " + str(fb[item].max())
+        output += " " + str(fb[item].min())
+        print(output)
+    
+    
+
+
+
+
 
 #Calculate the delta time
 def getDeltaTime(initial, final):
