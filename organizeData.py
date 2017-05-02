@@ -51,13 +51,12 @@ doAll = ['total_packets_a2b',
         'idletime_max_b2a',
         'throughput_a2b',
         'throughput_b2a',
-        'delta'
+        'delta',
+        'SYN_pkts_sent_a2b',
+        'FIN_pkts_sent_a2b',
+		'SYN_pkts_sent_b2a',
+        'FIN_pkts_sent_b2a'
 ]
-
-
-special = ['SYN/FIN_pkts_sent_a2b',
-        'SYN/FIN_pkts_sent_b2a'
-        ]
 
 avgOnly = ['adv_wind_scale_a2b',
         'adv_wind_scale_b2a'
@@ -87,18 +86,28 @@ def cleanData(f,index):
     rowData = []
     fb = pd.read_csv(outputFile,skipinitialspace=True)
     # Lists are 1 indexed so need to be changed so they are 0 indexed
-    for row, index in fb.iterrows():
-        first = fb.iloc[row,5]
-        last = fb.iloc[row,6]
+    for index, row in fb.iterrows():
+        first = row['first_packet']
+        last = row['last_packet']
         final = getDeltaTime(first, last)
         fb['delta'] = final 
-    
+
+        values = row['SYN/FIN_pkts_sent_a2b'].split('/')
+        fb['SYN_pkts_sent_a2b'] = values[0]
+        fb['FIN_pkts_sent_a2b'] = values[1]
+   
+        values = row['SYN/FIN_pkts_sent_b2a'].split('/')
+        fb['SYN_pkts_sent_b2a'] = values[0]
+        fb['FIN_pkts_sent_b2a'] = values[1]
+
     # Do all Calculations on the do all array
     for item in doAll:
+        newCols.append(item+"_sum")
         newCols.append(item+"_mean")
         newCols.append(item+"_max")
         newCols.append(item+"_min")
 
+        rowData.append(fb[item].sum())
         rowData.append(fb[item].mean())
         rowData.append(fb[item].max())
         rowData.append(fb[item].min())
@@ -113,7 +122,7 @@ def cleanData(f,index):
         newCols.append(item+"_max")
         rowData.append(fb[item].max())
     
-    # Dok all calculations that require only min
+    # Do all calculations that require only min
     for item in minOnly:
         newCols.append(item+"_min")
         rowData.append(fb[item].min())
