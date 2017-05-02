@@ -1,480 +1,240 @@
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify01.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #128 packets seen, 126 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.269165, 475 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.152409, 839 pkts/sec analyzed
 #trace file elapsed time: 0:00:05.935215
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify02.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #117 packets seen, 113 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.068215, 1715 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.036769, 3182 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.547839
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify03.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #152 packets seen, 142 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.044230, 3436 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.084717, 1794 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.243255
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify04.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #96 packets seen, 94 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.027983, 3430 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.036670, 2617 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.558891
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify05.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #143 packets seen, 137 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.090328, 1583 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.094436, 1514 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.268470
-
 #TCP connection info:
-
 #8 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify06.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #121 packets seen, 113 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.072376, 1671 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.061484, 1967 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.074779
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify07.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #163 packets seen, 157 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.077398, 2105 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.050217, 3245 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.306188
-
 #TCP connection info:
-
 #8 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify08.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #140 packets seen, 135 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.059933, 2335 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.070326, 1990 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.015826
-
 #TCP connection info:
-
 #9 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify09.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #126 packets seen, 122 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.136311, 924 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.035921, 3507 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.707396
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify10.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #124 packets seen, 115 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.103202, 1201 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.070805, 1751 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.555292
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify11.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #144 packets seen, 136 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.043329, 3323 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.080412, 1790 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.669335
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify12.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #150 packets seen, 137 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.294939, 508 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.138643, 1081 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.400541
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify13.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #142 packets seen, 139 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.099712, 1424 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.062469, 2273 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.912032
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify14.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #133 packets seen, 128 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.043287, 3072 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.040157, 3312 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.995978
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify15.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #134 packets seen, 131 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.046670, 2871 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.038244, 3503 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.399752
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify16.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #134 packets seen, 130 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.049892, 2685 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.049064, 2731 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.496869
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify17.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #141 packets seen, 131 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.044707, 3153 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.040646, 3468 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.352622
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify18.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #87 packets seen, 83 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.034626, 2512 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.043602, 1995 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.844424
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify19.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #136 packets seen, 132 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.077801, 1748 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.067338, 2019 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.793615
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify20.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #137 packets seen, 134 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.042248, 3242 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.039298, 3486 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.862431
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify21.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #157 packets seen, 151 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.075934, 2067 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.067641, 2321 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.314505
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify22.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #100 packets seen, 100 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.025079, 3987 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.035933, 2782 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.326791
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify23.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #128 packets seen, 122 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.044904, 2850 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.078276, 1635 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.743161
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify24.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #109 packets seen, 107 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.035867, 3039 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.040698, 2678 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.448182
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify25.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #127 packets seen, 125 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.042429, 2993 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.063719, 1993 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.575821
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify26.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #128 packets seen, 124 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.068505, 1868 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.069367, 1845 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.915490
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify27.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #120 packets seen, 116 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.043931, 2731 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.070638, 1698 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.955627
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify28.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #142 packets seen, 142 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.039963, 3553 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.042695, 3325 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.751720
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify29.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #154 packets seen, 141 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.035564, 4330 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.077894, 1977 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.465472
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Spotify/Spotify30.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
-
-
 #111 packets seen, 106 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.098027, 1132 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.114832, 966 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.999050
-
 #TCP connection info:
-
 #7 TCP connections traced:
-

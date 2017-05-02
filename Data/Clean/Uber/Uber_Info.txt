@@ -1,480 +1,240 @@
 #1 arg remaining, starting with './Data/Raw/Uber/Uber01.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #197 packets seen, 194 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.123461, 1595 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.174737, 1127 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.834707
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber02.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #178 packets seen, 174 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.063955, 2783 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.066965, 2658 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.281731
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber03.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #167 packets seen, 162 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.122158, 1367 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.145140, 1150 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.271938
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber04.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #142 packets seen, 141 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.036552, 3884 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.038503, 3688 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.473266
-
 #TCP connection info:
-
 #4 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber05.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #163 packets seen, 160 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.037138, 4389 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.051410, 3170 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.369723
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber06.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #124 packets seen, 124 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.031715, 3909 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.040784, 3040 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.853248
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber07.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #181 packets seen, 177 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.034091, 5309 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.065960, 2744 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.885358
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber08.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #185 packets seen, 183 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.031815, 5814 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.058142, 3181 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.752708
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber09.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #174 packets seen, 167 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.033884, 5135 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.051825, 3357 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.112579
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber10.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #181 packets seen, 180 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.031690, 5711 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.040439, 4475 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.024206
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber11.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #154 packets seen, 153 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.031802, 4842 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.051134, 3011 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.230248
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber12.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #139 packets seen, 139 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.037993, 3658 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.039274, 3539 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.366227
-
 #TCP connection info:
-
 #4 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber13.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #198 packets seen, 194 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.040937, 4836 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.078105, 2535 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.798041
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber14.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #163 packets seen, 160 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.035095, 4644 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.038938, 4186 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.685096
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber15.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #89 packets seen, 89 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.027408, 3247 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.038028, 2340 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.840627
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber16.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #206 packets seen, 200 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.041981, 4906 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.099048, 2079 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.803189
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber17.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #159 packets seen, 156 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.039338, 4041 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.053069, 2996 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.517246
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber18.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #185 packets seen, 182 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.042343, 4369 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.047396, 3903 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.728622
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber19.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #65 packets seen, 62 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.093370, 696 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.075616, 859 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.744646
-
 #TCP connection info:
-
 #8 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber20.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #147 packets seen, 145 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.042060, 3495 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.070066, 2098 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.392136
-
 #TCP connection info:
-
 #4 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber21.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #187 packets seen, 187 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.023461, 7970 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.046087, 4057 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.120499
-
 #TCP connection info:
-
 #6 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber22.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #170 packets seen, 166 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.063331, 2684 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.083837, 2027 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.361129
-
 #TCP connection info:
-
 #7 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber23.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #184 packets seen, 181 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.034601, 5317 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.038920, 4727 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.014991
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber24.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #152 packets seen, 149 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.037150, 4091 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.038574, 3940 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.755345
-
 #TCP connection info:
-
 #4 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber25.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #159 packets seen, 157 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.042707, 3723 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.057289, 2775 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.530281
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber26.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #193 packets seen, 193 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.040361, 4781 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.038355, 5031 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.546762
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber27.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #166 packets seen, 162 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.073073, 2271 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.069007, 2405 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.771307
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber28.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #136 packets seen, 134 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.057384, 2369 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.036972, 3678 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.782560
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber29.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
-
-
 
 #166 packets seen, 164 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.046981, 3533 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.049439, 3357 pkts/sec analyzed
 #trace file elapsed time: 0:00:04.265966
-
 #TCP connection info:
-
 #5 TCP connections traced:
-
 #1 arg remaining, starting with './Data/Raw/Uber/Uber30.pcapng'
-
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
-
-
 #175 packets seen, 173 TCP packets traced
-
-#elapsed wallclock time: 0:00:00.062974, 2778 pkts/sec analyzed
-
+#elapsed wallclock time: 0:00:00.067115, 2607 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.867344
-
 #TCP connection info:
-
 #5 TCP connections traced:
-

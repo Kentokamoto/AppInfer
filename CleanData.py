@@ -1,5 +1,6 @@
 # Custom Python file Load
 import organizeData as od
+import csv
 from subprocess import Popen, PIPE,call
 
 # Create the csv file
@@ -37,7 +38,7 @@ def moveComments(infoFile, appName, index):
                 f.close()
     # Put the information in the respective files
     try:
-            #Open the CSV File to Write this time
+        #Open the CSV File to Write this time
         f = open(outputFile, "w")
     except IOError:
         print("Error Couldn't open file to read (moveComments)")
@@ -46,7 +47,7 @@ def moveComments(infoFile, appName, index):
             print(lines[i].rstrip(),file=infoFile)
 
         for i in range(8,len(lines)):
-                print(lines[i].rstrip(),file=f)
+            print(lines[i].rstrip(),file=f)
 
         f.close()
 
@@ -62,11 +63,17 @@ infoFileOpen = "./Data/Clean/"+ app + "/" + app +"_Info.txt"
 
 try:
     #Open the File
-    infoFile = open(infoFileOpen,"w")
+    extraInfoFile = open(infoFileOpen,"w")
 except IOError:
     print("Error Couldn't Open Info File")
-with infoFile:
-    for i in range(1,31):
-        createCSVFile(app,i)
-        moveComments(infoFile,app,i)
-        od.cleanData(app, i) 
+with extraInfoFile:
+    with open("./Data/Clean/"+ app + "/" + app + "_final.csv","w") as f:
+        writer = csv.writer(f)
+        for i in range(1,31):
+            createCSVFile(app,i)
+            moveComments(extraInfoFile,app,i)
+            data, name = od.cleanData(app, i)
+            if i == 1:
+                writer.writerow(name)
+
+            writer.writerow(data)
