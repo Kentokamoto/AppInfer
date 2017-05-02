@@ -93,12 +93,12 @@ def cleanData(f,index):
         fb['delta'] = final 
 
         values = row['SYN/FIN_pkts_sent_a2b'].split('/')
-        fb['SYN_pkts_sent_a2b'] = values[0]
-        fb['FIN_pkts_sent_a2b'] = values[1]
+        fb['SYN_pkts_sent_a2b'] = int(values[0])
+        fb['FIN_pkts_sent_a2b'] = int(values[1])
    
         values = row['SYN/FIN_pkts_sent_b2a'].split('/')
-        fb['SYN_pkts_sent_b2a'] = values[0]
-        fb['FIN_pkts_sent_b2a'] = values[1]
+        fb['SYN_pkts_sent_b2a'] = int(values[0])
+        fb['FIN_pkts_sent_b2a'] = int(values[1])
 
     # Do all Calculations on the do all array
     for item in doAll:

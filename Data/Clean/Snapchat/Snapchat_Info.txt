@@ -2,7 +2,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #54 packets seen, 52 TCP packets traced
-#elapsed wallclock time: 0:00:00.021963, 2458 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.015657, 3448 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.288849
 #TCP connection info:
 #3 TCP connections traced:
@@ -10,7 +10,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #61 packets seen, 61 TCP packets traced
-#elapsed wallclock time: 0:00:00.014212, 4292 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.014510, 4203 pkts/sec analyzed
 #trace file elapsed time: 0:00:01.859644
 #TCP connection info:
 #5 TCP connections traced:
@@ -18,7 +18,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #57 packets seen, 56 TCP packets traced
-#elapsed wallclock time: 0:00:00.010290, 5539 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008023, 7104 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.384734
 #TCP connection info:
 #3 TCP connections traced:
@@ -26,7 +26,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #83 packets seen, 81 TCP packets traced
-#elapsed wallclock time: 0:00:00.008286, 10016 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008462, 9808 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.358749
 #TCP connection info:
 #4 TCP connections traced:
@@ -34,7 +34,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #90 packets seen, 89 TCP packets traced
-#elapsed wallclock time: 0:00:00.008684, 10363 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008422, 10686 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.777361
 #TCP connection info:
 #4 TCP connections traced:
@@ -42,7 +42,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #54 packets seen, 53 TCP packets traced
-#elapsed wallclock time: 0:00:00.010655, 5068 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008273, 6527 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.325314
 #TCP connection info:
 #3 TCP connections traced:
@@ -50,7 +50,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #75 packets seen, 75 TCP packets traced
-#elapsed wallclock time: 0:00:00.007946, 9437 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.007385, 10155 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.274041
 #TCP connection info:
 #4 TCP connections traced:
@@ -58,7 +58,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #54 packets seen, 54 TCP packets traced
-#elapsed wallclock time: 0:00:00.009270, 5825 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.010968, 4923 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.252511
 #TCP connection info:
 #3 TCP connections traced:
@@ -66,7 +66,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #55 packets seen, 55 TCP packets traced
-#elapsed wallclock time: 0:00:00.007380, 7452 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.007981, 6890 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.204035
 #TCP connection info:
 #3 TCP connections traced:
@@ -74,7 +74,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #87 packets seen, 87 TCP packets traced
-#elapsed wallclock time: 0:00:00.043430, 2003 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.017615, 4938 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.114411
 #TCP connection info:
 #5 TCP connections traced:
@@ -82,7 +82,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #59 packets seen, 59 TCP packets traced
-#elapsed wallclock time: 0:00:00.008012, 7363 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.007934, 7435 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.210610
 #TCP connection info:
 #3 TCP connections traced:
@@ -90,7 +90,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #62 packets seen, 61 TCP packets traced
-#elapsed wallclock time: 0:00:00.046510, 1333 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.017886, 3466 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.546574
 #TCP connection info:
 #5 TCP connections traced:
@@ -98,7 +98,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #98 packets seen, 98 TCP packets traced
-#elapsed wallclock time: 0:00:00.008992, 10898 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.009243, 10602 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.399010
 #TCP connection info:
 #4 TCP connections traced:
@@ -106,7 +106,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #53 packets seen, 53 TCP packets traced
-#elapsed wallclock time: 0:00:00.008777, 6038 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008446, 6275 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.257509
 #TCP connection info:
 #3 TCP connections traced:
@@ -114,7 +114,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #88 packets seen, 88 TCP packets traced
-#elapsed wallclock time: 0:00:00.009033, 9742 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.011102, 7926 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.272095
 #TCP connection info:
 #4 TCP connections traced:
@@ -122,7 +122,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #57 packets seen, 57 TCP packets traced
-#elapsed wallclock time: 0:00:00.008815, 6466 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008479, 6722 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.343787
 #TCP connection info:
 #3 TCP connections traced:
@@ -130,7 +130,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #59 packets seen, 57 TCP packets traced
-#elapsed wallclock time: 0:00:00.039722, 1485 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.014462, 4079 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.746908
 #TCP connection info:
 #5 TCP connections traced:
@@ -138,7 +138,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #63 packets seen, 61 TCP packets traced
-#elapsed wallclock time: 0:00:00.008857, 7113 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008335, 7558 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.011892
 #TCP connection info:
 #3 TCP connections traced:
@@ -146,7 +146,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #54 packets seen, 54 TCP packets traced
-#elapsed wallclock time: 0:00:00.009574, 5640 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008271, 6528 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.207217
 #TCP connection info:
 #3 TCP connections traced:
@@ -154,7 +154,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #56 packets seen, 55 TCP packets traced
-#elapsed wallclock time: 0:00:00.007816, 7163 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008514, 6577 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.362953
 #TCP connection info:
 #3 TCP connections traced:
@@ -162,7 +162,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #35 packets seen, 33 TCP packets traced
-#elapsed wallclock time: 0:00:00.008980, 3897 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.009192, 3807 pkts/sec analyzed
 #trace file elapsed time: 0:00:02.052941
 #TCP connection info:
 #2 TCP connections traced:
@@ -170,7 +170,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #61 packets seen, 61 TCP packets traced
-#elapsed wallclock time: 0:00:00.008785, 6943 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.010560, 5776 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.227095
 #TCP connection info:
 #3 TCP connections traced:
@@ -178,7 +178,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #51 packets seen, 51 TCP packets traced
-#elapsed wallclock time: 0:00:00.008802, 5794 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008289, 6152 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.254243
 #TCP connection info:
 #3 TCP connections traced:
@@ -186,7 +186,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #90 packets seen, 89 TCP packets traced
-#elapsed wallclock time: 0:00:00.012405, 7255 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.011881, 7575 pkts/sec analyzed
 #trace file elapsed time: 0:00:03.420220
 #TCP connection info:
 #5 TCP connections traced:
@@ -194,7 +194,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #61 packets seen, 61 TCP packets traced
-#elapsed wallclock time: 0:00:00.008726, 6990 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008100, 7530 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.357818
 #TCP connection info:
 #3 TCP connections traced:
@@ -202,7 +202,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #55 packets seen, 55 TCP packets traced
-#elapsed wallclock time: 0:00:00.008397, 6549 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.009057, 6072 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.216586
 #TCP connection info:
 #3 TCP connections traced:
@@ -210,7 +210,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #54 packets seen, 54 TCP packets traced
-#elapsed wallclock time: 0:00:00.008503, 6350 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.010302, 5241 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.380496
 #TCP connection info:
 #3 TCP connections traced:
@@ -218,7 +218,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #82 packets seen, 78 TCP packets traced
-#elapsed wallclock time: 0:00:00.008685, 9441 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008372, 9794 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.261212
 #TCP connection info:
 #4 TCP connections traced:
@@ -226,7 +226,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #58 packets seen, 58 TCP packets traced
-#elapsed wallclock time: 0:00:00.008567, 6770 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.008066, 7189 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.389865
 #TCP connection info:
 #3 TCP connections traced:
@@ -234,7 +234,7 @@
 #Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
 
 #57 packets seen, 57 TCP packets traced
-#elapsed wallclock time: 0:00:00.015414, 3697 pkts/sec analyzed
+#elapsed wallclock time: 0:00:00.017418, 3272 pkts/sec analyzed
 #trace file elapsed time: 0:00:00.828245
 #TCP connection info:
 #5 TCP connections traced:
