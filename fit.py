@@ -7,7 +7,7 @@ from sklearn import svm
 from sklearn import naive_bayes as nb
 from sklearn.preprocessing import Imputer
 from sklearn.model_selection import ShuffleSplit
-
+from sklearn import ensemble as ens
 #order of events
 #1. Load the data
 apps = ["Facebook", "Messenger", "Snapchat", "Spotify", "Twitter",
@@ -51,7 +51,8 @@ X_train_imp = imp.fit_transform(feat[0],feat[1])
 
 #clf = svm.SVC(kernel='linear', C=1)
 #clf = svm.LinearSVC()
-clf = nb.GaussianNB()
+clf = ens.RandomForestClassifier()
+#clf = nb.GaussianNB()
 #cv = ShuffleSplit(n_splits=3, test_size=0.3, random_state=0)
 scores = cross_val_score(clf,X_train_imp, feat[1],cv=5)
 print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
