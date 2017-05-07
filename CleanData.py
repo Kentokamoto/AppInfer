@@ -69,7 +69,7 @@ except IOError:
 with extraInfoFile:
     with open("./Data/Clean/"+ app + "/" + app + "_final.csv","w") as f:
         writer = csv.writer(f)
-        for i in range(1,31):
+        for i in range(1,61):
             createCSVFile(app,i)
             moveComments(extraInfoFile,app,i)
             data, name = od.cleanData(app, i)
