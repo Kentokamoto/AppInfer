@@ -3,15 +3,18 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 import pandas as pd
-from sklearn import svm
+from sklearn import svm, grid_search
 from sklearn import naive_bayes as nb
 from sklearn.preprocessing import Imputer
 from sklearn.model_selection import ShuffleSplit
 from sklearn import ensemble as ens
+from sklearn.utils import shuffle
+from sklearn.feature_selection import RFE
 #order of events
 #1. Load the data
 apps = ["Facebook", "Messenger", "Snapchat", "Spotify", "Twitter",
         "Uber", "Venmo", "Waze", "WhatsApp", "Yelp"]
+
 tables = []
 labels = []
 count = 1
@@ -29,6 +32,9 @@ for app in apps:
 
 combine = pd.concat(tables)
 matrixCombine = combine.as_matrix()
+# Shuffle data
+matrixCombine, labels = shuffle(matrixCombine,labels)
+print(len(matrixCombine[0]))
 #2. Adjust formatting for scikitlearn to read
 #	a. change training to arrays (data)
 #	b. change labels to numbers (target)
@@ -38,25 +44,42 @@ feat = (matrixCombine, labels)
 #	a. Split the data into training and test
 #	b. call cross_val_score
 
-#X_train, X_test, Y_train, Y_test = train_test_split(feat[0],feat[1], test_size=0.4, random_state=0)
+X_train, X_test, Y_train, Y_test = train_test_split(feat[0],feat[1], test_size=0.2, random_state=0)
 
 imp = Imputer(missing_values='NaN', strategy='mean', axis=0)
 #imp.fit(X_train)
 #X_train_imp = imp.fit_transform(X_train,Y_train)
 
 imp.fit(feat[0])
-X_train_imp = imp.fit_transform(feat[0],feat[1])
+X_train_imp = imp.fit_transform(X_train,Y_train)
 #clf = svm.SVC(kernel='linear', C=1).fit(X_train_imp, Y_train)
 #print(clf.score(X_test, Y_test))
 
-#clf = svm.SVC(kernel='linear', C=1)
+clf = svm.SVC(kernel='linear', C=1)
+param_grid = [
+  {'C': [1, 10, 100, 1000], 'kernel': ['linear']},
+  {'C': [1, 10, 100, 1000], 'gamma': [0.001, 0.0001], 'kernel': ['rbf']},
+ ]
+clf = grid_search.GridSearchCV(clf,param_grid=param_grid)
 #clf = svm.LinearSVC()
-clf = ens.RandomForestClassifier()
+#clf = ens.RandomForestClassifier()
 #clf = nb.GaussianNB()
 #cv = ShuffleSplit(n_splits=3, test_size=0.3, random_state=0)
 #reduce number of features
-scores = cross_val_score(clf,X_train_imp, feat[1],cv=5)
+scores = cross_val_score(clf,X_train_imp, Y_train,cv=5)
 print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
 #4. Save the training data as a file
-
 joblib.dump(clf,'trained.pkl')
+
+clf.fit(X_train_imp,Y_train)
+
+#5 Predict using the test data
+X_test_imp = imp.fit_transform(X_test)
+prediction = clf.predict(X_test_imp)
+print(len(prediction))
+print(len(Y_test))
+
+for i in range(len(prediction)):
+    if prediction[i] != Y_test[i] :
+        print("%s NOT %s"% (labelMap[prediction[i]],labelMap[ Y_test[i]]))
+        
