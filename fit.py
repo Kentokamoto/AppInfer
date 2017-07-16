@@ -10,6 +10,7 @@ from sklearn.model_selection import ShuffleSplit
 from sklearn import ensemble as ens
 from sklearn.utils import shuffle
 from sklearn.feature_selection import RFE
+from sklearn.metrics import accuracy_score,classification_report
 #order of events
 #1. Load the data
 apps = ["Facebook", "Messenger", "Snapchat", "Spotify", "Twitter",
@@ -55,14 +56,14 @@ X_train_imp = imp.fit_transform(X_train,Y_train)
 #clf = svm.SVC(kernel='linear', C=1).fit(X_train_imp, Y_train)
 #print(clf.score(X_test, Y_test))
 
-clf = svm.SVC(kernel='linear', C=1)
+#clf = svm.SVC(kernel='linear', C=1)
 param_grid = [
   {'C': [1, 10, 100, 1000], 'kernel': ['linear']},
   {'C': [1, 10, 100, 1000], 'gamma': [0.001, 0.0001], 'kernel': ['rbf']},
  ]
-clf = grid_search.GridSearchCV(clf,param_grid=param_grid)
+#clf = grid_search.GridSearchCV(clf,param_grid=param_grid)
 #clf = svm.LinearSVC()
-#clf = ens.RandomForestClassifier()
+clf = ens.RandomForestClassifier()
 #clf = nb.GaussianNB()
 #cv = ShuffleSplit(n_splits=3, test_size=0.3, random_state=0)
 #reduce number of features
@@ -79,7 +80,13 @@ prediction = clf.predict(X_test_imp)
 print(len(prediction))
 print(len(Y_test))
 
+acc = accuracy_score(prediction, Y_test) 
+print(acc)
+
 for i in range(len(prediction)):
     if prediction[i] != Y_test[i] :
         print("%s NOT %s"% (labelMap[prediction[i]],labelMap[ Y_test[i]]))
-        
+
+
+
+print(classification_report(Y_test, prediction, target_names=apps))
