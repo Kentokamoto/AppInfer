@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Raw/Waze/Waze01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#210 packets seen, 202 TCP packets traced
+#elapsed wallclock time: 0:00:00.156668, 1340 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.129967
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#205 packets seen, 201 TCP packets traced
+#elapsed wallclock time: 0:00:00.129828, 1579 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.799709
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.103059, 378 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.194094
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#213 packets seen, 206 TCP packets traced
+#elapsed wallclock time: 0:00:00.417720, 509 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.047797
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 35 TCP packets traced
+#elapsed wallclock time: 0:00:00.106279, 366 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.149719
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#20 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.087132, 229 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.815824
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#97 packets seen, 94 TCP packets traced
+#elapsed wallclock time: 0:00:00.116867, 830 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.101917
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#46 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.158619, 290 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.863370
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#62 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.090447, 685 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.902088
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#29 packets seen, 28 TCP packets traced
+#elapsed wallclock time: 0:00:00.103138, 281 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.244552
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#75 packets seen, 73 TCP packets traced
+#elapsed wallclock time: 0:00:00.097015, 773 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.765077
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#34 packets seen, 30 TCP packets traced
+#elapsed wallclock time: 0:00:00.098538, 345 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.922029
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.116506, 446 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.555838
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#177 packets seen, 170 TCP packets traced
+#elapsed wallclock time: 0:00:00.190590, 928 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.144194
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#166 packets seen, 156 TCP packets traced
+#elapsed wallclock time: 0:00:00.115596, 1436 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.774666
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#172 packets seen, 164 TCP packets traced
+#elapsed wallclock time: 0:00:00.096797, 1776 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.146386
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#96 packets seen, 88 TCP packets traced
+#elapsed wallclock time: 0:00:00.107854, 890 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.707548
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 181 TCP packets traced
+#elapsed wallclock time: 0:00:00.135442, 1365 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.661457
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#168 packets seen, 163 TCP packets traced
+#elapsed wallclock time: 0:00:00.099581, 1687 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.877590
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#187 packets seen, 176 TCP packets traced
+#elapsed wallclock time: 0:00:00.143721, 1301 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.972049
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 32 TCP packets traced
+#elapsed wallclock time: 0:00:00.101279, 345 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.732475
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#148 packets seen, 145 TCP packets traced
+#elapsed wallclock time: 0:00:00.099363, 1489 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.119367
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#200 packets seen, 196 TCP packets traced
+#elapsed wallclock time: 0:00:00.098200, 2036 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.572966
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#159 packets seen, 153 TCP packets traced
+#elapsed wallclock time: 0:00:00.121461, 1309 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.543956
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#68 packets seen, 66 TCP packets traced
+#elapsed wallclock time: 0:00:00.226129, 300 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.851637
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#179 packets seen, 174 TCP packets traced
+#elapsed wallclock time: 0:00:00.154033, 1162 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.138631
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#152 packets seen, 149 TCP packets traced
+#elapsed wallclock time: 0:00:00.104403, 1455 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.035619
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#78 packets seen, 74 TCP packets traced
+#elapsed wallclock time: 0:00:00.091086, 856 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.851944
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#187 packets seen, 179 TCP packets traced
+#elapsed wallclock time: 0:00:00.117493, 1591 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.792116
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#218 packets seen, 204 TCP packets traced
+#elapsed wallclock time: 0:00:00.179854, 1212 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.669585
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze31.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 178 TCP packets traced
+#elapsed wallclock time: 0:00:00.186808, 990 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.198453
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze32.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#161 packets seen, 154 TCP packets traced
+#elapsed wallclock time: 0:00:00.125472, 1283 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.189919
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze33.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#155 packets seen, 151 TCP packets traced
+#elapsed wallclock time: 0:00:00.103757, 1493 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.747867
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze34.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#167 packets seen, 155 TCP packets traced
+#elapsed wallclock time: 0:00:00.090841, 1838 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.794281
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze35.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#210 packets seen, 200 TCP packets traced
+#elapsed wallclock time: 0:00:00.206442, 1017 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.994247
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze36.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#191 packets seen, 184 TCP packets traced
+#elapsed wallclock time: 0:00:00.218189, 875 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.171113
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze37.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#179 packets seen, 177 TCP packets traced
+#elapsed wallclock time: 0:00:00.106834, 1675 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.111377
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze38.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 113 TCP packets traced
+#elapsed wallclock time: 0:00:00.104323, 1121 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.982304
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze39.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#234 packets seen, 234 TCP packets traced
+#elapsed wallclock time: 0:00:00.111011, 2107 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.882423
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze40.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#178 packets seen, 172 TCP packets traced
+#elapsed wallclock time: 0:00:00.150950, 1179 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.565225
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze41.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#178 packets seen, 170 TCP packets traced
+#elapsed wallclock time: 0:00:00.149032, 1194 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.980486
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze42.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#182 packets seen, 180 TCP packets traced
+#elapsed wallclock time: 0:00:00.122147, 1490 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.520637
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze43.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#103 packets seen, 98 TCP packets traced
+#elapsed wallclock time: 0:00:00.095554, 1077 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.316834
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze44.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.101887, 1099 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.249538
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze45.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#209 packets seen, 203 TCP packets traced
+#elapsed wallclock time: 0:00:00.202872, 1030 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.869743
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze46.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#183 packets seen, 180 TCP packets traced
+#elapsed wallclock time: 0:00:00.093774, 1951 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.714070
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze47.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#177 packets seen, 172 TCP packets traced
+#elapsed wallclock time: 0:00:00.091628, 1931 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.199307
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze48.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#159 packets seen, 157 TCP packets traced
+#elapsed wallclock time: 0:00:00.102921, 1544 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.845549
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze49.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#164 packets seen, 157 TCP packets traced
+#elapsed wallclock time: 0:00:00.126369, 1297 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.812165
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze50.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#98 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.102691, 954 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.152391
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze51.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#164 packets seen, 154 TCP packets traced
+#elapsed wallclock time: 0:00:00.101863, 1610 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.777045
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze52.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#167 packets seen, 162 TCP packets traced
+#elapsed wallclock time: 0:00:00.104695, 1595 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.078406
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze53.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#162 packets seen, 161 TCP packets traced
+#elapsed wallclock time: 0:00:00.102645, 1578 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.173007
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze54.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#192 packets seen, 179 TCP packets traced
+#elapsed wallclock time: 0:00:00.120250, 1596 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.012431
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze55.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#171 packets seen, 163 TCP packets traced
+#elapsed wallclock time: 0:00:00.106543, 1604 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.512535
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze56.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 178 TCP packets traced
+#elapsed wallclock time: 0:00:00.180995, 1022 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.890255
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze57.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#168 packets seen, 164 TCP packets traced
+#elapsed wallclock time: 0:00:00.093912, 1788 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.311115
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze58.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#152 packets seen, 148 TCP packets traced
+#elapsed wallclock time: 0:00:00.103928, 1462 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.773473
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze59.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#95 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.095100, 998 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.922654
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Waze/Waze60.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#58 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.103871, 558 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.360427
+#TCP connection info:
+#6 TCP connections traced:

@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#33 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.044751, 737 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.231287
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.037547, 932 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.131441
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#27 packets seen, 25 TCP packets traced
+#elapsed wallclock time: 0:00:00.039045, 691 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.663647
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.036712, 463 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.159068
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.053280, 281 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.157098
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.056912, 298 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.151538
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.065566, 213 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.121994
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.047809, 376 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.955545
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.039170, 382 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.160311
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.033059, 453 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.254455
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.039362, 457 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.466942
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.054308, 276 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.149034
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.044296, 338 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.152544
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#20 packets seen, 18 TCP packets traced
+#elapsed wallclock time: 0:00:00.033066, 604 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.198676
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.063276, 284 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.457539
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.044630, 380 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.174275
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.041272, 411 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.186652
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.038565, 388 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.204564
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.042034, 428 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.213978
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.037423, 454 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.168112
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.038437, 468 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.932798
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.103271, 377 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.333695
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.112953, 150 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.288859
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.040561, 419 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.154450
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#20 packets seen, 19 TCP packets traced
+#elapsed wallclock time: 0:00:00.080736, 247 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.589846
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.036384, 494 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.255044
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.041087, 413 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.157497
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.137857, 116 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.111002
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.048036, 312 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.584083
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.041807, 454 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.191650
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger31.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.039228, 407 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.311342
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger32.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.034248, 525 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.330986
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger33.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.036044, 499 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.450968
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger34.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#22 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.036666, 600 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.759455
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger35.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.037767, 423 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.308030
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger36.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.041521, 457 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.549055
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger37.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.052134, 345 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.075478
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger38.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.042616, 422 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.052036
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger39.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.034789, 546 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.381378
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger40.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.041364, 435 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.374807
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger41.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.035853, 446 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.370410
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger42.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 34 TCP packets traced
+#elapsed wallclock time: 0:00:00.031981, 1156 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.237363
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger43.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.035895, 501 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.277535
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger44.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.048580, 329 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.307166
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger45.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.034945, 457 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.516219
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger46.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.041410, 362 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.356120
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger47.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 32 TCP packets traced
+#elapsed wallclock time: 0:00:00.058226, 635 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.246237
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger48.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.058656, 289 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.720143
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger49.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#25 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.077940, 320 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.838306
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger50.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.043209, 370 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.321327
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger51.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.044757, 424 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.505166
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger52.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.079535, 213 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.227733
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger53.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.041750, 383 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.318145
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger54.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.038072, 446 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.307517
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger55.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.067920, 279 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.549303
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger56.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.036303, 495 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.290793
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger57.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.041972, 381 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.316893
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger58.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.035788, 502 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.340575
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger59.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.035091, 484 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.812300
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Raw/Messenger/Messenger60.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.040864, 391 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.343121
+#TCP connection info:
+#1 TCP connection traced:

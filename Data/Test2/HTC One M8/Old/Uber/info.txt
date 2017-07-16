@@ -1,0 +1,12 @@
+Capture Time: 6 secs
+ip: 192.168.2.3 = HTC One M8
+Capture Numbers: 30
+Date: 4/9/2017
+Time: 4:40PM -> 5:40PM
+
+Ubers Account: Linked to Phone Number
+
+Procedure to obtain data:
+Clear Facebook from Multitasking menu
+Go to settings->Apps->Messenger->Force Stop
+In wireshark: click capture as soon as facebook icon is tapped on phone

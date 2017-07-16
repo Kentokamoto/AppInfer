@@ -1,0 +1,13 @@
+Capture Time: 5 secs
+ip: 192.168.2.3 = HTC One M8
+ip: 157.240.2.20
+Capture Numbers: 30
+Date: 4/8/2017
+Time: 1:50PM -> 2:30
+
+Facebook Account: oka.keno@gmail.com
+
+Procedure to obtain data:
+Clear Facebook from Multitasking menu
+Go to settings->Apps->Facebook->Force Stop
+In wireshark: click capture as soon as facebook icon is tapped on phone
