@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#307 packets seen, 288 TCP packets traced
+#elapsed wallclock time: 0:00:00.394073, 779 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.914337
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#307 packets seen, 289 TCP packets traced
+#elapsed wallclock time: 0:00:00.276851, 1108 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.546546
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#167 packets seen, 164 TCP packets traced
+#elapsed wallclock time: 0:00:00.216695, 770 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.407250
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.112841, 930 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.346732
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#113 packets seen, 111 TCP packets traced
+#elapsed wallclock time: 0:00:00.111199, 1016 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.142091
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.141239, 785 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.174199
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.096225, 1132 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.888559
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.127595, 838 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.384129
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.169260, 649 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.835811
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.104374, 1015 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.984637
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.113173, 795 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.110070
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#119 packets seen, 119 TCP packets traced
+#elapsed wallclock time: 0:00:00.144469, 823 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.251526
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.155068, 709 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.213813
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.111374, 960 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.130333
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#126 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.109914, 1146 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.340255
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.109938, 1009 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.926733
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 127 TCP packets traced
+#elapsed wallclock time: 0:00:00.099916, 1291 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.141706
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#118 packets seen, 116 TCP packets traced
+#elapsed wallclock time: 0:00:00.070552, 1672 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.128591
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#113 packets seen, 111 TCP packets traced
+#elapsed wallclock time: 0:00:00.105727, 1068 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.451506
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.073296, 1446 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.927219
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.110916, 973 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.634544
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#102 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.112456, 907 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.114548
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#102 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.084145, 1212 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.166983
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.090699, 1323 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.782697
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.091154, 1184 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.674503
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.077289, 1345 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.941758
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.078827, 1420 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.948706
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.066617, 1636 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.039204
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.083622, 1291 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.559806
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.072434, 1477 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.479591
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.075939, 1474 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.036890
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.078245, 1418 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.101100
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.218584, 494 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.072220
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.119922, 875 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.392006
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.130792, 802 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.923492
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.069561, 1566 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.111044
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.096695, 1106 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.262179
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.113919, 1097 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.942178
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.077538, 1586 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.452422
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.081213, 1329 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.947732
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#144 packets seen, 144 TCP packets traced
+#elapsed wallclock time: 0:00:00.120351, 1196 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.804287
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.103280, 1045 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.910809
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.080711, 1338 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.136527
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#114 packets seen, 114 TCP packets traced
+#elapsed wallclock time: 0:00:00.095060, 1199 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.996232
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.089848, 1168 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.310586
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.100257, 1047 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.049101
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.090044, 1166 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.201679
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#127 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.113128, 1122 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.047359
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 114 TCP packets traced
+#elapsed wallclock time: 0:00:00.118020, 991 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.415662
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.060954, 1739 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.046581
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#137 packets seen, 135 TCP packets traced
+#elapsed wallclock time: 0:00:00.144408, 948 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.377229
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.152576, 701 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.289069
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.126921, 866 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.274303
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.156152, 666 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.137077
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.118527, 885 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.117840
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.106989, 1018 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.286463
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.105254, 1054 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.194233
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.079632, 1381 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.131254
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/1/USBank30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.083868, 1454 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.508960
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/USBank/2/USBank30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.066405, 1611 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.164311
+#TCP connection info:
+#4 TCP connections traced:

@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#97 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.282165, 343 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.445619
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#186 packets seen, 170 TCP packets traced
+#elapsed wallclock time: 0:00:00.249996, 744 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.824209
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 118 TCP packets traced
+#elapsed wallclock time: 0:00:00.134554, 891 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.824109
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#143 packets seen, 139 TCP packets traced
+#elapsed wallclock time: 0:00:00.201666, 709 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.836268
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.191232, 643 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.843066
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.210536, 584 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.786594
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.298608, 391 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.802559
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.198713, 548 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.946504
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.164903, 648 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.903092
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.225900, 540 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.769187
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.114973, 1052 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.335469
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.176334, 703 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.739988
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#127 packets seen, 127 TCP packets traced
+#elapsed wallclock time: 0:00:00.126429, 1004 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.713537
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.152355, 800 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.742953
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.105776, 1181 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.763082
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.134538, 921 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.875224
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 116 TCP packets traced
+#elapsed wallclock time: 0:00:00.168716, 693 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.591121
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 119 TCP packets traced
+#elapsed wallclock time: 0:00:00.187834, 654 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.523153
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#130 packets seen, 128 TCP packets traced
+#elapsed wallclock time: 0:00:00.148636, 874 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.114657
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.164993, 739 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.528950
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.129338, 950 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.711633
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.123633, 1011 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.619024
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#118 packets seen, 116 TCP packets traced
+#elapsed wallclock time: 0:00:00.148269, 795 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.929159
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.158633, 787 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.710761
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.175920, 682 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.692422
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#128 packets seen, 128 TCP packets traced
+#elapsed wallclock time: 0:00:00.134975, 948 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.712180
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.238639, 490 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.000563
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.238318, 524 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.697816
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.176212, 692 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.240839
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.136108, 918 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.777530
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 115 TCP packets traced
+#elapsed wallclock time: 0:00:00.238578, 490 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.873747
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.184557, 666 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.826988
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 119 TCP packets traced
+#elapsed wallclock time: 0:00:00.212959, 572 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.565128
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#127 packets seen, 125 TCP packets traced
+#elapsed wallclock time: 0:00:00.119651, 1061 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.670528
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#133 packets seen, 131 TCP packets traced
+#elapsed wallclock time: 0:00:00.114130, 1165 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.892875
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.116597, 1063 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.684434
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 116 TCP packets traced
+#elapsed wallclock time: 0:00:00.104884, 1115 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.018050
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.140274, 883 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.781292
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#130 packets seen, 128 TCP packets traced
+#elapsed wallclock time: 0:00:00.115494, 1125 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.172642
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.154882, 794 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.620325
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#126 packets seen, 124 TCP packets traced
+#elapsed wallclock time: 0:00:00.109610, 1149 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.912087
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 129 TCP packets traced
+#elapsed wallclock time: 0:00:00.217263, 593 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.372847
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.179091, 670 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.764160
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#133 packets seen, 131 TCP packets traced
+#elapsed wallclock time: 0:00:00.311766, 426 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.921443
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#142 packets seen, 140 TCP packets traced
+#elapsed wallclock time: 0:00:00.229923, 617 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.726437
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.145126, 840 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.701683
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 124 TCP packets traced
+#elapsed wallclock time: 0:00:00.241941, 516 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.541081
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.154009, 805 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.809555
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.121977, 1000 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.732439
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.124827, 993 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.775887
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#150 packets seen, 147 TCP packets traced
+#elapsed wallclock time: 0:00:00.313903, 477 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.869510
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.150730, 816 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.733171
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#128 packets seen, 126 TCP packets traced
+#elapsed wallclock time: 0:00:00.112713, 1135 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.006971
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#126 packets seen, 124 TCP packets traced
+#elapsed wallclock time: 0:00:00.119187, 1057 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.728761
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.105268, 1168 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.599032
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.125541, 987 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.719209
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.217887, 559 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.724155
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.185696, 667 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.817928
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/1/CapitalOne30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#135 packets seen, 132 TCP packets traced
+#elapsed wallclock time: 0:00:00.141569, 953 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.371716
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CapitalOne/2/CapitalOne30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.135959, 889 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.652720
+#TCP connection info:
+#6 TCP connections traced:

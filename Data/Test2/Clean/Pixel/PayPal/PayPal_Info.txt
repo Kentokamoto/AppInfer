@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#514 packets seen, 502 TCP packets traced
+#elapsed wallclock time: 0:00:02.302210, 223 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.876539
+#TCP connection info:
+#27 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#266 packets seen, 266 TCP packets traced
+#elapsed wallclock time: 0:00:00.403212, 659 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.274375
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#229 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.421171, 543 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.676617
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 237 TCP packets traced
+#elapsed wallclock time: 0:00:00.138224, 1736 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.802693
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#258 packets seen, 253 TCP packets traced
+#elapsed wallclock time: 0:00:01.343774, 191 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.664882
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#246 packets seen, 246 TCP packets traced
+#elapsed wallclock time: 0:00:00.130439, 1885 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.529150
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#236 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.156503, 1507 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.354289
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1272 packets seen, 1272 TCP packets traced
+#elapsed wallclock time: 0:00:00.215694, 5897 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.376215
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#229 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.135047, 1695 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.426479
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 239 TCP packets traced
+#elapsed wallclock time: 0:00:00.114501, 2096 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.501849
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#242 packets seen, 238 TCP packets traced
+#elapsed wallclock time: 0:00:00.209661, 1154 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.463400
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#231 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.266406, 867 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.784086
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#257 packets seen, 257 TCP packets traced
+#elapsed wallclock time: 0:00:00.153679, 1672 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.824465
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 240 TCP packets traced
+#elapsed wallclock time: 0:00:00.122259, 1963 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.627742
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#248 packets seen, 244 TCP packets traced
+#elapsed wallclock time: 0:00:00.269568, 919 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.202193
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#239 packets seen, 233 TCP packets traced
+#elapsed wallclock time: 0:00:00.160426, 1489 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.738907
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#235 packets seen, 235 TCP packets traced
+#elapsed wallclock time: 0:00:00.132645, 1771 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.698164
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2480 packets seen, 2476 TCP packets traced
+#elapsed wallclock time: 0:00:00.188997, 13121 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.890645
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#233 packets seen, 233 TCP packets traced
+#elapsed wallclock time: 0:00:00.121361, 1919 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.446901
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#250 packets seen, 248 TCP packets traced
+#elapsed wallclock time: 0:00:00.215938, 1157 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.098927
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#238 packets seen, 236 TCP packets traced
+#elapsed wallclock time: 0:00:00.245851, 968 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.612644
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#259 packets seen, 255 TCP packets traced
+#elapsed wallclock time: 0:00:00.107550, 2408 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.701360
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#229 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.131979, 1735 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.438048
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#264 packets seen, 244 TCP packets traced
+#elapsed wallclock time: 0:00:00.387744, 680 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.561318
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#238 packets seen, 238 TCP packets traced
+#elapsed wallclock time: 0:00:00.140890, 1689 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.725069
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#253 packets seen, 251 TCP packets traced
+#elapsed wallclock time: 0:00:00.113133, 2236 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.575059
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#237 packets seen, 237 TCP packets traced
+#elapsed wallclock time: 0:00:00.119153, 1989 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.708820
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#247 packets seen, 247 TCP packets traced
+#elapsed wallclock time: 0:00:00.113011, 2185 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.942461
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#232 packets seen, 230 TCP packets traced
+#elapsed wallclock time: 0:00:00.224810, 1031 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.954429
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#247 packets seen, 245 TCP packets traced
+#elapsed wallclock time: 0:00:00.196942, 1254 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.505711
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#230 packets seen, 228 TCP packets traced
+#elapsed wallclock time: 0:00:00.120033, 1916 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.480961
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#249 packets seen, 247 TCP packets traced
+#elapsed wallclock time: 0:00:00.125559, 1983 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.386966
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#242 packets seen, 242 TCP packets traced
+#elapsed wallclock time: 0:00:00.172063, 1406 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.843034
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#248 packets seen, 248 TCP packets traced
+#elapsed wallclock time: 0:00:00.149640, 1657 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.156448
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#236 packets seen, 236 TCP packets traced
+#elapsed wallclock time: 0:00:00.230486, 1023 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.581399
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#265 packets seen, 263 TCP packets traced
+#elapsed wallclock time: 0:00:00.178382, 1485 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.686007
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#232 packets seen, 232 TCP packets traced
+#elapsed wallclock time: 0:00:00.141248, 1642 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.602559
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#281 packets seen, 281 TCP packets traced
+#elapsed wallclock time: 0:00:00.979095, 286 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.260568
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#256 packets seen, 252 TCP packets traced
+#elapsed wallclock time: 0:00:00.287512, 890 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.492890
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#242 packets seen, 240 TCP packets traced
+#elapsed wallclock time: 0:00:00.183598, 1318 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.844714
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#260 packets seen, 260 TCP packets traced
+#elapsed wallclock time: 0:00:00.183203, 1419 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.512076
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#241 packets seen, 241 TCP packets traced
+#elapsed wallclock time: 0:00:00.154884, 1556 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.398836
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#233 packets seen, 231 TCP packets traced
+#elapsed wallclock time: 0:00:00.206908, 1126 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.406754
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#244 packets seen, 242 TCP packets traced
+#elapsed wallclock time: 0:00:00.137209, 1778 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.623038
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#231 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.125736, 1837 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.446652
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#245 packets seen, 245 TCP packets traced
+#elapsed wallclock time: 0:00:00.125946, 1945 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.826233
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#404 packets seen, 355 TCP packets traced
+#elapsed wallclock time: 0:00:01.347695, 299 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.419983
+#TCP connection info:
+#17 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#241 packets seen, 241 TCP packets traced
+#elapsed wallclock time: 0:00:00.302515, 796 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.503557
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#235 packets seen, 233 TCP packets traced
+#elapsed wallclock time: 0:00:00.132400, 1774 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.591923
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#264 packets seen, 258 TCP packets traced
+#elapsed wallclock time: 0:00:00.227379, 1161 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.487576
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#241 packets seen, 237 TCP packets traced
+#elapsed wallclock time: 0:00:00.184338, 1307 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.697356
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#270 packets seen, 268 TCP packets traced
+#elapsed wallclock time: 0:00:00.396126, 681 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.505417
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#228 packets seen, 226 TCP packets traced
+#elapsed wallclock time: 0:00:00.129449, 1761 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.593242
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#238 packets seen, 238 TCP packets traced
+#elapsed wallclock time: 0:00:00.123555, 1926 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.509903
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#236 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.296885, 794 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.617897
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#245 packets seen, 241 TCP packets traced
+#elapsed wallclock time: 0:00:00.421982, 580 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.715070
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#255 packets seen, 238 TCP packets traced
+#elapsed wallclock time: 0:00:00.124813, 2043 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.216723
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#198 packets seen, 198 TCP packets traced
+#elapsed wallclock time: 0:00:00.276357, 716 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.155789
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/1/PayPal30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#241 packets seen, 241 TCP packets traced
+#elapsed wallclock time: 0:00:00.155018, 1554 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.530284
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/PayPal/2/PayPal30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#232 packets seen, 230 TCP packets traced
+#elapsed wallclock time: 0:00:00.109924, 2110 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.033535
+#TCP connection info:
+#10 TCP connections traced:

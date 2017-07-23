@@ -5,9 +5,9 @@ from subprocess import Popen, PIPE,call
 
 # Create the csv file
 def createCSVFile(f,index):
-    fileName = "./Data/Raw/" + f + "/" + app + "%02d"%index + ".pcapng"  #Wireshark File Name
+    fileName = "./Data/Test" + testNum + "/Raw/" + f + "/" + app + "%02d"%index + ".pcapng"  #Wireshark File Name
     print(fileName)
-    outputFile ="./Data/Clean/" + f + "/" +app+"%02d"%index+".csv"  #CSV File Name
+    outputFile ="./Data/Test" + testNum + "/Clean/" + f + "/" +app+"%02d"%index+".csv"  #CSV File Name
     try: 
         #Open the CSV File
         f = open(outputFile,"w")
@@ -58,16 +58,16 @@ def moveComments(infoFile, appName, index):
 ###############################
 
 app = input("What App? ")
-
-infoFileOpen = "./Data/Clean/"+ app + "/" + app +"_Info.txt"
-
+testNum = input( "Which Test? 1 or 2? ")
+infoFileOpen = "./Data/Test" + testNum + "/Clean/"+ app + "/" + app +"_Info.txt"
+print(infoFileOpen)
 try:
     #Open the File
     extraInfoFile = open(infoFileOpen,"w")
 except IOError:
     print("Error Couldn't Open Info File")
 with extraInfoFile:
-    with open("./Data/Clean/"+ app + "/" + app + "_final.csv","w") as f:
+    with open("./Data/Test" + testNum + "/Clean/"+ app + "/" + app + "_final.csv","w") as f:
         writer = csv.writer(f)
         for i in range(1,61):
             createCSVFile(app,i)

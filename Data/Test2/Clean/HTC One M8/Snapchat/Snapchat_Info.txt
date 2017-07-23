@@ -1,0 +1,96 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/1/Snapchat01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.079281, 214 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.715684
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/2/Snapchat01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.037493, 746 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.344866
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/1/Snapchat02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#34 packets seen, 34 TCP packets traced
+#elapsed wallclock time: 0:00:00.044244, 768 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.240116
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/2/Snapchat02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.052270, 325 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.468574
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/1/Snapchat03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 25 TCP packets traced
+#elapsed wallclock time: 0:00:00.052755, 492 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.019439
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/2/Snapchat03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.112308, 427 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.989564
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/1/Snapchat04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 19 TCP packets traced
+#elapsed wallclock time: 0:00:00.054491, 348 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.191367
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/2/Snapchat04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 35 TCP packets traced
+#elapsed wallclock time: 0:00:00.046903, 746 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.287466
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/1/Snapchat05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#11 packets seen, 11 TCP packets traced
+#elapsed wallclock time: 0:00:00.039970, 275 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.039317
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/2/Snapchat05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 44 TCP packets traced
+#elapsed wallclock time: 0:00:00.045302, 971 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.379862
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/1/Snapchat06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 13 TCP packets traced
+#elapsed wallclock time: 0:00:00.048083, 311 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.493835
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Snapchat/2/Snapchat06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.047725, 544 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.950726
+#TCP connection info:
+#1 TCP connection traced:

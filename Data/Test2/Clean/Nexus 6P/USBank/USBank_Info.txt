@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#283 packets seen, 266 TCP packets traced
+#elapsed wallclock time: 0:00:00.208491, 1357 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.640531
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#301 packets seen, 280 TCP packets traced
+#elapsed wallclock time: 0:00:00.383794, 784 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.562201
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#187 packets seen, 183 TCP packets traced
+#elapsed wallclock time: 0:00:00.119620, 1563 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.679824
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#196 packets seen, 192 TCP packets traced
+#elapsed wallclock time: 0:00:00.285202, 687 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.552824
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#204 packets seen, 200 TCP packets traced
+#elapsed wallclock time: 0:00:00.133347, 1529 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.212248
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#176 packets seen, 172 TCP packets traced
+#elapsed wallclock time: 0:00:00.293631, 599 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.122457
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#181 packets seen, 177 TCP packets traced
+#elapsed wallclock time: 0:00:00.142686, 1268 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.869683
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#55 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.290216, 189 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.841409
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#212 packets seen, 208 TCP packets traced
+#elapsed wallclock time: 0:00:00.134906, 1571 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.890375
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#194 packets seen, 190 TCP packets traced
+#elapsed wallclock time: 0:00:00.296666, 653 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.829724
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#187 packets seen, 185 TCP packets traced
+#elapsed wallclock time: 0:00:00.106003, 1764 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.843586
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#175 packets seen, 175 TCP packets traced
+#elapsed wallclock time: 0:00:00.242949, 720 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.382159
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#178 packets seen, 176 TCP packets traced
+#elapsed wallclock time: 0:00:00.101109, 1760 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.410705
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#169 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.208876, 809 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.149113
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#189 packets seen, 187 TCP packets traced
+#elapsed wallclock time: 0:00:00.105243, 1795 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.669725
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#167 packets seen, 165 TCP packets traced
+#elapsed wallclock time: 0:00:00.201320, 829 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.486190
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#183 packets seen, 183 TCP packets traced
+#elapsed wallclock time: 0:00:00.093275, 1961 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.754394
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#197 packets seen, 195 TCP packets traced
+#elapsed wallclock time: 0:00:00.247762, 795 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.007970
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#186 packets seen, 182 TCP packets traced
+#elapsed wallclock time: 0:00:00.095319, 1951 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.276931
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#190 packets seen, 188 TCP packets traced
+#elapsed wallclock time: 0:00:00.089327, 2127 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.615895
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#173 packets seen, 171 TCP packets traced
+#elapsed wallclock time: 0:00:00.087754, 1971 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.567162
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#165 packets seen, 161 TCP packets traced
+#elapsed wallclock time: 0:00:00.175004, 942 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.673754
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.088200, 1394 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.917733
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#177 packets seen, 175 TCP packets traced
+#elapsed wallclock time: 0:00:00.140587, 1259 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.530031
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#196 packets seen, 192 TCP packets traced
+#elapsed wallclock time: 0:00:00.164385, 1192 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.328611
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#182 packets seen, 180 TCP packets traced
+#elapsed wallclock time: 0:00:00.103833, 1752 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.700225
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#70 packets seen, 68 TCP packets traced
+#elapsed wallclock time: 0:00:00.232514, 301 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.054939
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#144 packets seen, 144 TCP packets traced
+#elapsed wallclock time: 0:00:00.116398, 1237 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.982253
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#181 packets seen, 179 TCP packets traced
+#elapsed wallclock time: 0:00:00.099647, 1816 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.675294
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#173 packets seen, 173 TCP packets traced
+#elapsed wallclock time: 0:00:00.149748, 1155 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.790884
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#162 packets seen, 162 TCP packets traced
+#elapsed wallclock time: 0:00:00.120605, 1343 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.662446
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#170 packets seen, 168 TCP packets traced
+#elapsed wallclock time: 0:00:00.178526, 952 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.184764
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#226 packets seen, 224 TCP packets traced
+#elapsed wallclock time: 0:00:00.105737, 2137 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.719125
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 118 TCP packets traced
+#elapsed wallclock time: 0:00:00.143312, 837 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.908006
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#198 packets seen, 196 TCP packets traced
+#elapsed wallclock time: 0:00:00.173788, 1139 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.688698
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#179 packets seen, 177 TCP packets traced
+#elapsed wallclock time: 0:00:00.115414, 1550 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.389273
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#194 packets seen, 192 TCP packets traced
+#elapsed wallclock time: 0:00:00.120507, 1609 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.338635
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#162 packets seen, 160 TCP packets traced
+#elapsed wallclock time: 0:00:00.130623, 1240 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.904675
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 183 TCP packets traced
+#elapsed wallclock time: 0:00:00.140711, 1314 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.907903
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#164 packets seen, 162 TCP packets traced
+#elapsed wallclock time: 0:00:00.106208, 1544 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.448949
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#187 packets seen, 185 TCP packets traced
+#elapsed wallclock time: 0:00:00.131270, 1424 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.744051
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#183 packets seen, 175 TCP packets traced
+#elapsed wallclock time: 0:00:00.165461, 1106 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.179171
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#180 packets seen, 178 TCP packets traced
+#elapsed wallclock time: 0:00:00.279647, 643 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.166638
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#144 packets seen, 140 TCP packets traced
+#elapsed wallclock time: 0:00:00.095875, 1501 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.012007
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#194 packets seen, 192 TCP packets traced
+#elapsed wallclock time: 0:00:00.646120, 300 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.888252
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#188 packets seen, 186 TCP packets traced
+#elapsed wallclock time: 0:00:00.149398, 1258 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.837336
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#168 packets seen, 168 TCP packets traced
+#elapsed wallclock time: 0:00:00.078389, 2143 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.546132
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#156 packets seen, 156 TCP packets traced
+#elapsed wallclock time: 0:00:00.125411, 1243 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.832732
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#194 packets seen, 190 TCP packets traced
+#elapsed wallclock time: 0:00:00.157753, 1229 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.646035
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#141 packets seen, 139 TCP packets traced
+#elapsed wallclock time: 0:00:00.116020, 1215 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.855414
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#171 packets seen, 169 TCP packets traced
+#elapsed wallclock time: 0:00:00.160600, 1064 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.557010
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#114 packets seen, 112 TCP packets traced
+#elapsed wallclock time: 0:00:00.252782, 450 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.448417
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#199 packets seen, 197 TCP packets traced
+#elapsed wallclock time: 0:00:00.191419, 1039 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.194689
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.088970, 1191 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.818579
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#153 packets seen, 151 TCP packets traced
+#elapsed wallclock time: 0:00:00.136531, 1120 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.163752
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#131 packets seen, 129 TCP packets traced
+#elapsed wallclock time: 0:00:00.078624, 1666 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.680336
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#188 packets seen, 186 TCP packets traced
+#elapsed wallclock time: 0:00:00.122580, 1533 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.032770
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#188 packets seen, 184 TCP packets traced
+#elapsed wallclock time: 0:00:00.084821, 2216 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.821696
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/1/USBank30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#261 packets seen, 252 TCP packets traced
+#elapsed wallclock time: 0:00:00.226020, 1154 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.910165
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/USBank/2/USBank30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#142 packets seen, 142 TCP packets traced
+#elapsed wallclock time: 0:00:00.121953, 1164 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.920334
+#TCP connection info:
+#6 TCP connections traced:
