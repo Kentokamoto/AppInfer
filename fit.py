@@ -1,3 +1,4 @@
+import pdb
 from sklearn.externals import joblib
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -18,21 +19,26 @@ apps = ["Facebook", "Messenger", "Snapchat", "Spotify", "Twitter",
         "Uber", "Venmo", "Waze", "WhatsApp", "Yelp"]
 
 tables = []
+testTb = []
 labels = []
 count = 1
 labelMap = {}
-path = "Test2"
+test = "Test2"
 for dev in devices:
-    for app in apps:
-        path = "./Data/"+ path +"Clean/"+app +"/"+app+"_final.csv"
-        tab = pd.read_csv(path)
-        labelMap[count] = app 
-        print(len(tab.index))
-        for i in range(len(tab.index)):
-            labels.append(count)
+    for week in range( 1, 3 ):
+        for app in apps:
+            path = "./Data/"+ test+ "/Clean/"+ dev + "/" +app +"/"+app+"_"+str( week )+ "_final.csv"
+            tab = pd.read_csv(path)
+            labelMap[count] = app 
+            print(len(tab.index))
+            for i in range(len(tab.index)):
+                labels.append(count)
 
-        count+= 1
-        tables.append(tab)
+            count+= 1
+            pdb.set_trace()
+            tables.append(tab)
+            testTb.append( tab.tail(10) )
+
 
 combine = pd.concat(tables)
 matrixCombine = combine.as_matrix()
