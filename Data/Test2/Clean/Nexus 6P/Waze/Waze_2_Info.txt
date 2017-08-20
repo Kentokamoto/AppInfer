@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.088571, 1456 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.289311
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.107089, 1092 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.542607
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.130361, 851 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.633594
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#67 packets seen, 65 TCP packets traced
+#elapsed wallclock time: 0:00:00.079541, 842 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.706804
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#68 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.068463, 993 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.737319
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#72 packets seen, 66 TCP packets traced
+#elapsed wallclock time: 0:00:00.066402, 1084 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.906490
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#69 packets seen, 69 TCP packets traced
+#elapsed wallclock time: 0:00:00.067888, 1016 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.961211
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#70 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.087795, 797 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.792051
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#66 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.068340, 965 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.709289
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#64 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.070663, 905 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.703106
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#72 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.066532, 1082 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.653900
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#66 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.061663, 1070 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.709417
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#65 packets seen, 65 TCP packets traced
+#elapsed wallclock time: 0:00:00.101519, 640 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.680543
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#75 packets seen, 73 TCP packets traced
+#elapsed wallclock time: 0:00:00.138732, 540 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.315196
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#70 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.086383, 810 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.683469
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#94 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.136562, 688 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.298299
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#66 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.105756, 624 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.773495
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#68 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.097445, 697 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.656660
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#99 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.093182, 1062 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.242540
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#66 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.103313, 638 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.484072
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#69 packets seen, 65 TCP packets traced
+#elapsed wallclock time: 0:00:00.074002, 932 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.755434
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#68 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.057135, 1190 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.709373
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#101 packets seen, 93 TCP packets traced
+#elapsed wallclock time: 0:00:00.122056, 827 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.601399
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#82 packets seen, 80 TCP packets traced
+#elapsed wallclock time: 0:00:00.396857, 206 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.130135
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#64 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.129747, 493 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.640850
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#68 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.107758, 631 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.629516
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#70 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.094813, 738 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.698637
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#66 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.133568, 494 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.742532
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#68 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.136337, 498 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.711283
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Waze/2/Waze30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#70 packets seen, 64 TCP packets traced
+#elapsed wallclock time: 0:00:00.161233, 434 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.834774
+#TCP connection info:
+#5 TCP connections traced:

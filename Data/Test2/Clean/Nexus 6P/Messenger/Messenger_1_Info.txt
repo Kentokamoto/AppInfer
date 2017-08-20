@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#27 packets seen, 25 TCP packets traced
+#elapsed wallclock time: 0:00:00.028158, 958 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.927683
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.038895, 385 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.191804
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.070923, 253 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.723894
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#20 packets seen, 18 TCP packets traced
+#elapsed wallclock time: 0:00:00.119240, 167 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.366044
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.065390, 214 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.227725
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.055025, 254 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.237994
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.058305, 274 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.797941
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#53 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.071965, 736 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.388723
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.034926, 515 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.510316
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.027598, 688 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.523390
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.033264, 450 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.198577
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.036979, 432 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.237981
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#22 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.546691, 40 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.755757
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#21 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.045112, 465 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.954309
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#18 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.103267, 174 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.140359
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.028910, 518 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.188631
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.028866, 588 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.189167
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.033888, 442 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.225483
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.030669, 489 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.242027
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.041845, 382 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.221401
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.037957, 395 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.202054
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.030808, 519 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.235691
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.033264, 450 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.190848
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.033754, 414 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.237833
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.061639, 259 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.558268
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.043650, 320 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.237302
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.035129, 483 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.284736
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.036301, 413 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.200089
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.035253, 453 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.217571
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Messenger/1/Messenger30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.029240, 512 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.233932
+#TCP connection info:
+#1 TCP connection traced:

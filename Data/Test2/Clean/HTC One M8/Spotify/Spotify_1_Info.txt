@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#69 packets seen, 67 TCP packets traced
+#elapsed wallclock time: 0:00:00.198082, 348 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.417962
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#141 packets seen, 141 TCP packets traced
+#elapsed wallclock time: 0:00:00.924806, 152 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.483422
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#140 packets seen, 140 TCP packets traced
+#elapsed wallclock time: 0:00:00.533665, 262 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.625811
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.805474, 131 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.600597
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.170403, 616 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.504363
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#151 packets seen, 143 TCP packets traced
+#elapsed wallclock time: 0:00:00.339458, 444 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.591476
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#140 packets seen, 138 TCP packets traced
+#elapsed wallclock time: 0:00:00.232350, 602 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.448516
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.125344, 837 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.531598
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.390339, 266 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.888538
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.231489, 522 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.366439
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.117808, 916 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.444049
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.242489, 457 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.623505
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.401139, 274 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.714214
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.514831, 205 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.783783
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.145618, 748 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.375777
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.475773, 222 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.583083
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.530338, 197 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.307812
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.743314, 142 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.311509
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.358963, 339 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.431560
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#97 packets seen, 97 TCP packets traced
+#elapsed wallclock time: 0:00:00.066665, 1455 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.853993
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#134 packets seen, 132 TCP packets traced
+#elapsed wallclock time: 0:00:00.187735, 713 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.581221
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.114449, 952 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.077611
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.120667, 745 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.422180
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.465597, 240 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.575494
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#141 packets seen, 137 TCP packets traced
+#elapsed wallclock time: 0:00:00.146639, 961 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.628072
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.071895, 1460 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.386358
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.187166, 587 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.494311
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.064469, 1644 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.565345
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.089769, 991 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.650239
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Spotify/1/Spotify30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.089943, 1167 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.360347
+#TCP connection info:
+#5 TCP connections traced:

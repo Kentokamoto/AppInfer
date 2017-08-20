@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#103 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.358390, 287 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.733772
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#93 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.065598, 1417 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.548137
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#96 packets seen, 96 TCP packets traced
+#elapsed wallclock time: 0:00:00.111657, 859 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.483276
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#94 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.147637, 636 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.539359
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#95 packets seen, 95 TCP packets traced
+#elapsed wallclock time: 0:00:00.579084, 164 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.624841
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.185938, 559 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.828745
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.074472, 1235 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.697922
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#101 packets seen, 97 TCP packets traced
+#elapsed wallclock time: 0:00:00.271873, 371 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.818751
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#94 packets seen, 94 TCP packets traced
+#elapsed wallclock time: 0:00:00.068362, 1375 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.743091
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.350362, 296 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.720375
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#94 packets seen, 94 TCP packets traced
+#elapsed wallclock time: 0:00:00.090658, 1036 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.956969
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#93 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.055340, 1680 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.778403
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.056011, 1963 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.654904
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#98 packets seen, 96 TCP packets traced
+#elapsed wallclock time: 0:00:00.046020, 2129 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.510746
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.140414, 747 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.085523
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#94 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.066175, 1420 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.700085
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#91 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.050717, 1794 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.593192
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#96 packets seen, 94 TCP packets traced
+#elapsed wallclock time: 0:00:00.057002, 1684 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.896666
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#91 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.053176, 1711 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.389778
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#95 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.055149, 1722 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.082043
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#91 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.052640, 1728 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.581610
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#98 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.049966, 1961 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.667266
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.046367, 2350 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.077787
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#98 packets seen, 96 TCP packets traced
+#elapsed wallclock time: 0:00:00.057077, 1716 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.040913
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#103 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.045589, 2259 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.712050
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.056644, 1624 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.052767
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#99 packets seen, 97 TCP packets traced
+#elapsed wallclock time: 0:00:00.239180, 413 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.684140
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.040592, 344 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.901157
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.138378, 787 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.381018
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CitiMobile/1/CitiMobile30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#95 packets seen, 93 TCP packets traced
+#elapsed wallclock time: 0:00:00.055553, 1710 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.770798
+#TCP connection info:
+#4 TCP connections traced:

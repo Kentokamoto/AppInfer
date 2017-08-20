@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#13 packets seen, 13 TCP packets traced
+#elapsed wallclock time: 0:00:00.072427, 179 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.720136
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 234 TCP packets traced
+#elapsed wallclock time: 0:00:00.207846, 1154 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.923371
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#239 packets seen, 239 TCP packets traced
+#elapsed wallclock time: 0:00:00.208023, 1148 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.969760
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#230 packets seen, 228 TCP packets traced
+#elapsed wallclock time: 0:00:00.195862, 1174 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.849659
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 240 TCP packets traced
+#elapsed wallclock time: 0:00:00.326094, 735 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.112671
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#235 packets seen, 235 TCP packets traced
+#elapsed wallclock time: 0:00:00.200100, 1174 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.931724
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#231 packets seen, 229 TCP packets traced
+#elapsed wallclock time: 0:00:00.195093, 1184 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.493975
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#234 packets seen, 234 TCP packets traced
+#elapsed wallclock time: 0:00:00.128730, 1817 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.296101
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#244 packets seen, 242 TCP packets traced
+#elapsed wallclock time: 0:00:00.292547, 834 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.953846
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#232 packets seen, 232 TCP packets traced
+#elapsed wallclock time: 0:00:00.129622, 1789 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.850608
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 240 TCP packets traced
+#elapsed wallclock time: 0:00:00.134184, 1788 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.899990
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#241 packets seen, 239 TCP packets traced
+#elapsed wallclock time: 0:00:00.104293, 2310 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.888595
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#249 packets seen, 245 TCP packets traced
+#elapsed wallclock time: 0:00:00.290893, 855 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.383666
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#244 packets seen, 244 TCP packets traced
+#elapsed wallclock time: 0:00:00.108189, 2255 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.896277
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 240 TCP packets traced
+#elapsed wallclock time: 0:00:00.103537, 2318 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.576767
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#292 packets seen, 290 TCP packets traced
+#elapsed wallclock time: 0:00:00.142538, 2048 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.137277
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#272 packets seen, 259 TCP packets traced
+#elapsed wallclock time: 0:00:00.202403, 1343 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.646535
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#240 packets seen, 236 TCP packets traced
+#elapsed wallclock time: 0:00:00.113492, 2114 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.724749
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#245 packets seen, 245 TCP packets traced
+#elapsed wallclock time: 0:00:00.125291, 1955 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.257864
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#60 packets seen, 60 TCP packets traced
+#elapsed wallclock time: 0:00:00.054503, 1100 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.508578
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#253 packets seen, 251 TCP packets traced
+#elapsed wallclock time: 0:00:00.116708, 2167 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.788300
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#255 packets seen, 255 TCP packets traced
+#elapsed wallclock time: 0:00:00.107526, 2371 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.756032
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#256 packets seen, 256 TCP packets traced
+#elapsed wallclock time: 0:00:00.100220, 2554 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.240510
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#258 packets seen, 258 TCP packets traced
+#elapsed wallclock time: 0:00:00.102883, 2507 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.747735
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#258 packets seen, 258 TCP packets traced
+#elapsed wallclock time: 0:00:00.144427, 1786 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.229074
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#254 packets seen, 250 TCP packets traced
+#elapsed wallclock time: 0:00:00.128787, 1972 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.586476
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#258 packets seen, 258 TCP packets traced
+#elapsed wallclock time: 0:00:00.184616, 1397 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.856228
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#251 packets seen, 251 TCP packets traced
+#elapsed wallclock time: 0:00:00.101805, 2465 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.768833
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#244 packets seen, 244 TCP packets traced
+#elapsed wallclock time: 0:00:00.111081, 2196 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.010136
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/PayPal/1/PayPal30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#243 packets seen, 239 TCP packets traced
+#elapsed wallclock time: 0:00:00.118479, 2050 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.881463
+#TCP connection info:
+#10 TCP connections traced:

@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1552 packets seen, 1535 TCP packets traced
+#elapsed wallclock time: 0:00:00.535615, 2897 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.180232
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1539 packets seen, 1523 TCP packets traced
+#elapsed wallclock time: 0:00:00.530702, 2899 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.550670
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1601 packets seen, 1588 TCP packets traced
+#elapsed wallclock time: 0:00:00.277358, 5772 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.581548
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1494 packets seen, 1485 TCP packets traced
+#elapsed wallclock time: 0:00:00.346404, 4312 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.962298
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1550 packets seen, 1542 TCP packets traced
+#elapsed wallclock time: 0:00:00.343157, 4516 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.498837
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1545 packets seen, 1531 TCP packets traced
+#elapsed wallclock time: 0:00:00.274394, 5630 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.843036
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1573 packets seen, 1556 TCP packets traced
+#elapsed wallclock time: 0:00:00.326809, 4813 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.051670
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1492 packets seen, 1480 TCP packets traced
+#elapsed wallclock time: 0:00:00.684399, 2180 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.269696
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1526 packets seen, 1510 TCP packets traced
+#elapsed wallclock time: 0:00:00.299705, 5091 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.073675
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1638 packets seen, 1630 TCP packets traced
+#elapsed wallclock time: 0:00:00.353336, 4635 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.099826
+#TCP connection info:
+#27 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1600 packets seen, 1575 TCP packets traced
+#elapsed wallclock time: 0:00:00.634535, 2521 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.220399
+#TCP connection info:
+#27 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1434 packets seen, 1416 TCP packets traced
+#elapsed wallclock time: 0:00:00.218662, 6558 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.598344
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1441 packets seen, 1427 TCP packets traced
+#elapsed wallclock time: 0:00:00.424533, 3394 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.986667
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1520 packets seen, 1513 TCP packets traced
+#elapsed wallclock time: 0:00:00.374852, 4054 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.565131
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1426 packets seen, 1418 TCP packets traced
+#elapsed wallclock time: 0:00:00.299225, 4765 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.467109
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1447 packets seen, 1441 TCP packets traced
+#elapsed wallclock time: 0:00:00.530504, 2727 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.918241
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1511 packets seen, 1503 TCP packets traced
+#elapsed wallclock time: 0:00:00.272420, 5546 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.552553
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1517 packets seen, 1507 TCP packets traced
+#elapsed wallclock time: 0:00:00.228584, 6636 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.612007
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1503 packets seen, 1492 TCP packets traced
+#elapsed wallclock time: 0:00:00.560013, 2683 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.373829
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.099462, 392 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.284353
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1541 packets seen, 1534 TCP packets traced
+#elapsed wallclock time: 0:00:00.346617, 4445 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.989831
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1328 packets seen, 1317 TCP packets traced
+#elapsed wallclock time: 0:00:00.257826, 5150 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.098830
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1552 packets seen, 1542 TCP packets traced
+#elapsed wallclock time: 0:00:00.279589, 5551 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.757451
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1483 packets seen, 1465 TCP packets traced
+#elapsed wallclock time: 0:00:00.757318, 1958 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.369866
+#TCP connection info:
+#26 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1467 packets seen, 1461 TCP packets traced
+#elapsed wallclock time: 0:00:00.258756, 5669 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.280028
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1531 packets seen, 1517 TCP packets traced
+#elapsed wallclock time: 0:00:00.286614, 5341 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.546695
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#53 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.062407, 849 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.161950
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1481 packets seen, 1473 TCP packets traced
+#elapsed wallclock time: 0:00:00.312807, 4734 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.800663
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1264 packets seen, 1250 TCP packets traced
+#elapsed wallclock time: 0:00:00.351212, 3598 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.987467
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Discover/1/Discover30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1519 packets seen, 1517 TCP packets traced
+#elapsed wallclock time: 0:00:00.424231, 3580 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.936588
+#TCP connection info:
+#24 TCP connections traced:

@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#13 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.041713, 311 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.174440
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.034208, 263 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.131518
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.039578, 227 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.133999
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#11 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.042355, 259 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.142069
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.041062, 219 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.121791
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.046675, 192 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.094571
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.035703, 252 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.103133
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.039614, 227 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.201734
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.031319, 287 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.110806
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.045177, 199 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.097983
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.046790, 192 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.124065
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#31 packets seen, 25 TCP packets traced
+#elapsed wallclock time: 0:00:00.070432, 440 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.510683
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.045851, 196 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.094464
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#11 packets seen, 9 TCP packets traced
+#elapsed wallclock time: 0:00:00.040692, 270 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.140375
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.044525, 202 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.082636
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#11 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.039556, 278 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.126444
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.041924, 214 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.111275
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.041053, 219 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.088180
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#13 packets seen, 9 TCP packets traced
+#elapsed wallclock time: 0:00:00.033114, 392 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.352668
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.044571, 201 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.077661
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 118 TCP packets traced
+#elapsed wallclock time: 0:00:00.082839, 1496 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.427538
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#13 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.040516, 320 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.322134
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 8 TCP packets traced
+#elapsed wallclock time: 0:00:00.065525, 213 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.609630
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#11 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.030432, 361 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.347906
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#10 packets seen, 8 TCP packets traced
+#elapsed wallclock time: 0:00:00.050488, 198 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.066959
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.041292, 217 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.126934
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#10 packets seen, 8 TCP packets traced
+#elapsed wallclock time: 0:00:00.062617, 159 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.081785
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#11 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.042935, 256 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.158099
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.038900, 231 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.134508
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/WhatsApp/2/WhatsApp30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9 packets seen, 7 TCP packets traced
+#elapsed wallclock time: 0:00:00.045560, 197 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.113771
+#TCP connection info:
+#1 TCP connection traced:

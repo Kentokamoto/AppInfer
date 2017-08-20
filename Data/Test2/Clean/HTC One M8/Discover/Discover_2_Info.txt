@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1463 packets seen, 1447 TCP packets traced
+#elapsed wallclock time: 0:00:00.405770, 3605 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.933876
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1397 packets seen, 1388 TCP packets traced
+#elapsed wallclock time: 0:00:00.360488, 3875 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.734799
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1392 packets seen, 1390 TCP packets traced
+#elapsed wallclock time: 0:00:00.293845, 4737 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.805676
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1343 packets seen, 1336 TCP packets traced
+#elapsed wallclock time: 0:00:00.621737, 2160 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.798335
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1481 packets seen, 1458 TCP packets traced
+#elapsed wallclock time: 0:00:00.382832, 3868 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.911722
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1462 packets seen, 1456 TCP packets traced
+#elapsed wallclock time: 0:00:00.560579, 2608 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.617095
+#TCP connection info:
+#26 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1477 packets seen, 1455 TCP packets traced
+#elapsed wallclock time: 0:00:00.461917, 3197 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.651266
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1378 packets seen, 1370 TCP packets traced
+#elapsed wallclock time: 0:00:00.347012, 3971 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.852881
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1356 packets seen, 1352 TCP packets traced
+#elapsed wallclock time: 0:00:00.446876, 3034 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.834004
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1449 packets seen, 1439 TCP packets traced
+#elapsed wallclock time: 0:00:00.321141, 4512 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.751007
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1397 packets seen, 1388 TCP packets traced
+#elapsed wallclock time: 0:00:00.674226, 2072 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.640820
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1339 packets seen, 1337 TCP packets traced
+#elapsed wallclock time: 0:00:00.823883, 1625 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.902480
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1427 packets seen, 1423 TCP packets traced
+#elapsed wallclock time: 0:00:00.590722, 2415 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.776778
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1426 packets seen, 1422 TCP packets traced
+#elapsed wallclock time: 0:00:00.530835, 2686 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.723888
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1390 packets seen, 1382 TCP packets traced
+#elapsed wallclock time: 0:00:00.385892, 3602 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.945349
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1393 packets seen, 1383 TCP packets traced
+#elapsed wallclock time: 0:00:00.722290, 1928 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.707663
+#TCP connection info:
+#23 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1465 packets seen, 1463 TCP packets traced
+#elapsed wallclock time: 0:00:00.407193, 3597 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.194561
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1414 packets seen, 1396 TCP packets traced
+#elapsed wallclock time: 0:00:00.441609, 3201 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.982154
+#TCP connection info:
+#26 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1458 packets seen, 1446 TCP packets traced
+#elapsed wallclock time: 0:00:00.494573, 2947 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.432824
+#TCP connection info:
+#26 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1422 packets seen, 1416 TCP packets traced
+#elapsed wallclock time: 0:00:00.423412, 3358 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.911378
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1479 packets seen, 1475 TCP packets traced
+#elapsed wallclock time: 0:00:00.456197, 3242 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.679203
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1410 packets seen, 1402 TCP packets traced
+#elapsed wallclock time: 0:00:00.359218, 3925 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.929209
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1425 packets seen, 1407 TCP packets traced
+#elapsed wallclock time: 0:00:00.665899, 2139 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.652998
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1464 packets seen, 1439 TCP packets traced
+#elapsed wallclock time: 0:00:00.567238, 2580 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.752492
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1408 packets seen, 1392 TCP packets traced
+#elapsed wallclock time: 0:00:00.675993, 2082 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.759805
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1392 packets seen, 1388 TCP packets traced
+#elapsed wallclock time: 0:00:00.630309, 2208 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.149084
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1268 packets seen, 1260 TCP packets traced
+#elapsed wallclock time: 0:00:00.510039, 2486 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.902276
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1468 packets seen, 1448 TCP packets traced
+#elapsed wallclock time: 0:00:00.355161, 4133 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.653776
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1473 packets seen, 1450 TCP packets traced
+#elapsed wallclock time: 0:00:00.322027, 4574 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.474263
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Discover/2/Discover30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1418 packets seen, 1412 TCP packets traced
+#elapsed wallclock time: 0:00:00.260758, 5437 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.824600
+#TCP connection info:
+#23 TCP connections traced:

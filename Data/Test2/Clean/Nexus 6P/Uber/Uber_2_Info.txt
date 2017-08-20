@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#201 packets seen, 193 TCP packets traced
+#elapsed wallclock time: 0:00:00.125423, 1602 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.457581
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#157 packets seen, 153 TCP packets traced
+#elapsed wallclock time: 0:00:00.077628, 2022 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.509296
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#8212 packets seen, 8206 TCP packets traced
+#elapsed wallclock time: 0:00:00.182511, 44994 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.161108
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#3082 packets seen, 3082 TCP packets traced
+#elapsed wallclock time: 0:00:00.129851, 23734 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.230205
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#127 packets seen, 125 TCP packets traced
+#elapsed wallclock time: 0:00:00.136408, 931 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.380047
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#141 packets seen, 137 TCP packets traced
+#elapsed wallclock time: 0:00:00.096803, 1456 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.302538
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#166 packets seen, 164 TCP packets traced
+#elapsed wallclock time: 0:00:00.135398, 1226 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.814937
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#143 packets seen, 139 TCP packets traced
+#elapsed wallclock time: 0:00:00.097756, 1462 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.304926
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#153 packets seen, 151 TCP packets traced
+#elapsed wallclock time: 0:00:00.070342, 2175 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.833502
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#144 packets seen, 140 TCP packets traced
+#elapsed wallclock time: 0:00:00.077336, 1862 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.429173
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#142 packets seen, 142 TCP packets traced
+#elapsed wallclock time: 0:00:00.103367, 1373 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.846134
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#143 packets seen, 141 TCP packets traced
+#elapsed wallclock time: 0:00:00.115836, 1234 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.429208
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#155 packets seen, 155 TCP packets traced
+#elapsed wallclock time: 0:00:00.095678, 1620 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.554527
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#151 packets seen, 147 TCP packets traced
+#elapsed wallclock time: 0:00:00.070826, 2131 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.592187
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 83 TCP packets traced
+#elapsed wallclock time: 0:00:00.070154, 1240 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.979965
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#132 packets seen, 128 TCP packets traced
+#elapsed wallclock time: 0:00:00.091421, 1443 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.306580
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#155 packets seen, 153 TCP packets traced
+#elapsed wallclock time: 0:00:00.086675, 1788 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.329107
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#157 packets seen, 157 TCP packets traced
+#elapsed wallclock time: 0:00:00.082070, 1913 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.287487
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#11 packets seen, 11 TCP packets traced
+#elapsed wallclock time: 0:00:00.040374, 272 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.082600
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#232 packets seen, 228 TCP packets traced
+#elapsed wallclock time: 0:00:00.131888, 1759 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.254669
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#154 packets seen, 152 TCP packets traced
+#elapsed wallclock time: 0:00:00.103266, 1491 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.339954
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#147 packets seen, 147 TCP packets traced
+#elapsed wallclock time: 0:00:00.091329, 1609 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.279211
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#145 packets seen, 143 TCP packets traced
+#elapsed wallclock time: 0:00:00.091930, 1577 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.291738
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#161 packets seen, 159 TCP packets traced
+#elapsed wallclock time: 0:00:00.099046, 1625 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.284076
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 183 TCP packets traced
+#elapsed wallclock time: 0:00:00.149159, 1240 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.109537
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#153 packets seen, 151 TCP packets traced
+#elapsed wallclock time: 0:00:00.098886, 1547 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.302003
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#158 packets seen, 154 TCP packets traced
+#elapsed wallclock time: 0:00:00.173644, 909 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.405416
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#142 packets seen, 142 TCP packets traced
+#elapsed wallclock time: 0:00:00.091958, 1544 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.380665
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#152 packets seen, 150 TCP packets traced
+#elapsed wallclock time: 0:00:00.141230, 1076 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.188587
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Uber/2/Uber30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#155 packets seen, 151 TCP packets traced
+#elapsed wallclock time: 0:00:00.055390, 2798 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.204903
+#TCP connection info:
+#3 TCP connections traced:

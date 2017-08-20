@@ -68,18 +68,18 @@ def moveComments(infoFile, appName, index, device, week):
 app = sys.argv[1]
 print(app)
 for dev in devices:
-    infoFileOpen = "./Data/Test2/Clean/"+ dev  + "/" +app + "/" + app +"_Info.txt"
-    try:
-        #Open the File
-        extraInfoFile = open(infoFileOpen,"w")
-    except IOError:
-        print("Error(Main) Couldn't Open Info File: %s"%infoFileOpen)
-        continue 
-    with extraInfoFile:
-        with open("./Data/Test2/Clean/"+ dev + "/" + app + "/" + app + "_final.csv","w") as f:
-            writer = csv.writer(f)
-            for i in range(1,31):
-                for j in range (1,3):
+    for j in range( 1, 3 ):
+        infoFileOpen = "./Data/Test2/Clean/"+ dev  + "/" +app + "/" + app +"_"+ str( j ) + "_Info.txt"
+        try:
+            #Open the File
+            extraInfoFile = open(infoFileOpen,"w")
+        except IOError:
+            print("Error(Main) Couldn't Open Info File: %s"%infoFileOpen)
+            continue 
+        with extraInfoFile:
+            with open("./Data/Test2/Clean/"+ dev + "/" + app + "/" + app +"_" + str( j ) + "_final.csv","w") as f:
+                writer = csv.writer(f)
+                for i in range(1,31):
                     #Something's wrong with this instance so we're skipping it
                     #if app  == "WhatsApp" and (i == 4 and dev == "Pixel"):
                     #    print("Skipping")

@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#140 packets seen, 128 TCP packets traced
+#elapsed wallclock time: 0:00:00.192861, 725 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.044000
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#113 packets seen, 111 TCP packets traced
+#elapsed wallclock time: 0:00:00.209377, 539 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.101325
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#101 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.182937, 552 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.296324
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.143361, 753 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.773571
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.158372, 688 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.796928
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.125291, 838 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.777828
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.148216, 715 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.262424
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.129961, 846 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.906364
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.099332, 1107 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.926118
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.105675, 1022 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.734269
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.113132, 981 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.968023
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.151489, 719 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.754783
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.110867, 965 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.870339
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.116258, 920 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.825952
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.114225, 963 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.945691
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.128765, 869 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.141455
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.096806, 1260 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.918849
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.111894, 947 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.726642
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#137 packets seen, 133 TCP packets traced
+#elapsed wallclock time: 0:00:00.211443, 647 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.485419
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.120457, 888 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.830257
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.112917, 991 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.011712
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.094781, 1107 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.724313
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.097515, 1117 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.844224
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.092046, 1140 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.722920
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.108041, 1008 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.761077
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.096585, 1128 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.073182
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.092508, 1167 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.651737
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.096713, 1096 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.785962
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.101343, 1045 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.750019
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/CapitalOne/2/CapitalOne30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#73 packets seen, 70 TCP packets traced
+#elapsed wallclock time: 0:00:00.066144, 1103 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.617282
+#TCP connection info:
+#3 TCP connections traced:

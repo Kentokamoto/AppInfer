@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#99 packets seen, 61 TCP packets traced
+#elapsed wallclock time: 0:00:00.097547, 1014 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.145385
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.036534, 711 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.414003
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.033692, 712 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.424278
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#93 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.048022, 1936 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.550592
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#31 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.041519, 746 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.648379
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.034549, 752 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.426066
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.042323, 614 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.448745
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.047109, 509 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.432150
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.035559, 731 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.429694
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.040584, 591 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.426138
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#32 packets seen, 32 TCP packets traced
+#elapsed wallclock time: 0:00:00.068139, 469 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.488899
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.043377, 599 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.440978
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#31 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.103501, 299 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.555328
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.044344, 586 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.415101
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#32 packets seen, 32 TCP packets traced
+#elapsed wallclock time: 0:00:00.034532, 926 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.838312
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.035945, 667 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.423011
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.029011, 827 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.426913
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.042221, 568 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.405800
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.035582, 730 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.507916
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#62 packets seen, 60 TCP packets traced
+#elapsed wallclock time: 0:00:00.079511, 779 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.177162
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.034998, 742 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.425307
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#30 packets seen, 30 TCP packets traced
+#elapsed wallclock time: 0:00:00.034555, 868 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.565896
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.030423, 854 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.420437
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.053458, 486 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.468214
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.040566, 640 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.423357
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.063628, 377 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.404256
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 28 TCP packets traced
+#elapsed wallclock time: 0:00:00.055622, 503 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.546413
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.036990, 648 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.469567
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.038353, 625 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.489013
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Twitter/1/Twitter30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.038143, 629 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.410681
+#TCP connection info:
+#1 TCP connection traced:

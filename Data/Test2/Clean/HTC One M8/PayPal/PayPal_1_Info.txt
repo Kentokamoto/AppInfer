@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#32 packets seen, 28 TCP packets traced
+#elapsed wallclock time: 0:00:00.320916, 99 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.702675
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#36 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.539723, 66 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.140651
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#32 packets seen, 30 TCP packets traced
+#elapsed wallclock time: 0:00:00.372516, 85 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.081480
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#20 packets seen, 20 TCP packets traced
+#elapsed wallclock time: 0:00:00.453017, 44 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.666243
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 35 TCP packets traced
+#elapsed wallclock time: 0:00:00.405716, 103 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.546354
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.684261, 54 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.382986
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.328928, 106 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.012299
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#36 packets seen, 28 TCP packets traced
+#elapsed wallclock time: 0:00:00.266589, 135 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.941557
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#29 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.352839, 82 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.982982
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#33 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.505143, 65 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.293458
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 34 TCP packets traced
+#elapsed wallclock time: 0:00:00.294602, 135 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.659710
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 34 TCP packets traced
+#elapsed wallclock time: 0:00:00.544599, 77 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.102990
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#34 packets seen, 27 TCP packets traced
+#elapsed wallclock time: 0:00:00.195964, 173 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.765823
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.439779, 79 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.476479
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#29 packets seen, 25 TCP packets traced
+#elapsed wallclock time: 0:00:00.166370, 174 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.479330
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#25 packets seen, 23 TCP packets traced
+#elapsed wallclock time: 0:00:00.145739, 171 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.004207
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#33 packets seen, 32 TCP packets traced
+#elapsed wallclock time: 0:00:00.185101, 178 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.498325
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.201573, 173 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.850117
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#30 packets seen, 30 TCP packets traced
+#elapsed wallclock time: 0:00:00.148478, 202 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.024193
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#29 packets seen, 27 TCP packets traced
+#elapsed wallclock time: 0:00:00.207880, 139 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.973735
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#31 packets seen, 29 TCP packets traced
+#elapsed wallclock time: 0:00:00.176179, 175 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.277397
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#32 packets seen, 29 TCP packets traced
+#elapsed wallclock time: 0:00:00.310099, 103 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.709597
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#34 packets seen, 30 TCP packets traced
+#elapsed wallclock time: 0:00:00.176750, 192 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.825947
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.122826, 195 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.459061
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 28 TCP packets traced
+#elapsed wallclock time: 0:00:00.142670, 196 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.963655
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.207253, 197 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.050866
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#32 packets seen, 30 TCP packets traced
+#elapsed wallclock time: 0:00:00.194939, 164 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.757571
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#30 packets seen, 26 TCP packets traced
+#elapsed wallclock time: 0:00:00.173480, 172 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.451524
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 32 TCP packets traced
+#elapsed wallclock time: 0:00:00.203871, 181 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.434451
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/PayPal/1/PayPal30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#33 packets seen, 29 TCP packets traced
+#elapsed wallclock time: 0:00:00.185131, 178 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.018004
+#TCP connection info:
+#11 TCP connections traced:

@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#134 packets seen, 128 TCP packets traced
+#elapsed wallclock time: 0:00:00.301284, 444 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.757883
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.150124, 806 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.107572
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#115 packets seen, 113 TCP packets traced
+#elapsed wallclock time: 0:00:00.144887, 793 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.118317
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 100 TCP packets traced
+#elapsed wallclock time: 0:00:00.106602, 984 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.550273
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.144866, 724 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.965014
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.147249, 821 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.934918
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.325395, 374 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.979714
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.265573, 402 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.698834
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 118 TCP packets traced
+#elapsed wallclock time: 0:00:00.091238, 1315 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.024214
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#116 packets seen, 112 TCP packets traced
+#elapsed wallclock time: 0:00:00.098539, 1177 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.090440
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.114404, 961 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.819267
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.330875, 314 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.279439
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.495813, 235 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.243522
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 101 TCP packets traced
+#elapsed wallclock time: 0:00:00.085561, 1227 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.306410
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.101892, 1059 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.777854
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#60 packets seen, 58 TCP packets traced
+#elapsed wallclock time: 0:00:00.159144, 377 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.337875
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#191 packets seen, 187 TCP packets traced
+#elapsed wallclock time: 0:00:00.285192, 669 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.321780
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#113 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.644124, 175 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.859299
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.311234, 350 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.358121
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 116 TCP packets traced
+#elapsed wallclock time: 0:00:00.110258, 1088 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.069423
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 127 TCP packets traced
+#elapsed wallclock time: 0:00:00.170647, 755 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.480112
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#114 packets seen, 112 TCP packets traced
+#elapsed wallclock time: 0:00:00.156195, 729 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.988683
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#127 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.308508, 411 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.348358
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.093907, 1128 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.854511
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.088628, 1207 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.055842
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.284645, 393 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.892192
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#115 packets seen, 111 TCP packets traced
+#elapsed wallclock time: 0:00:00.085797, 1340 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.011060
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.141740, 747 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.685881
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.154506, 718 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.927724
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Spotify/2/Spotify30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#102 packets seen, 98 TCP packets traced
+#elapsed wallclock time: 0:00:00.098603, 1034 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.454050
+#TCP connection info:
+#6 TCP connections traced:

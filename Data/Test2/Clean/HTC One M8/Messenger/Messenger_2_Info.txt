@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#30 packets seen, 21 TCP packets traced
+#elapsed wallclock time: 0:00:00.046239, 648 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.780234
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.034529, 492 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.182565
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.034043, 499 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.240371
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#19 packets seen, 19 TCP packets traced
+#elapsed wallclock time: 0:00:00.048717, 390 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.219511
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.031589, 538 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.190922
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.046751, 342 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.223732
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.030726, 488 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.347286
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.027373, 584 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.198162
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#14 packets seen, 14 TCP packets traced
+#elapsed wallclock time: 0:00:00.032906, 425 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.252610
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.033641, 505 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.200334
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.040432, 370 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.220534
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.036170, 414 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.187378
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.040687, 417 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.197251
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.060134, 266 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.187359
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#27 packets seen, 25 TCP packets traced
+#elapsed wallclock time: 0:00:00.063022, 428 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.462097
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.070806, 225 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.723765
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.066290, 256 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.742866
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.042572, 399 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.360544
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#69 packets seen, 65 TCP packets traced
+#elapsed wallclock time: 0:00:00.690370, 99 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.146755
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#16 packets seen, 16 TCP packets traced
+#elapsed wallclock time: 0:00:00.063996, 250 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.822365
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.034623, 433 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.195583
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.031307, 543 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.239094
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.076503, 222 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.915989
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#22 packets seen, 20 TCP packets traced
+#elapsed wallclock time: 0:00:00.042490, 517 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.265217
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#131 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.178104, 735 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.072105
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.034905, 487 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.217265
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.031716, 536 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.183017
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.035824, 418 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.204363
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#15 packets seen, 15 TCP packets traced
+#elapsed wallclock time: 0:00:00.037295, 402 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.198138
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Messenger/2/Messenger30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#20 packets seen, 18 TCP packets traced
+#elapsed wallclock time: 0:00:00.036547, 547 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.236145
+#TCP connection info:
+#1 TCP connection traced:

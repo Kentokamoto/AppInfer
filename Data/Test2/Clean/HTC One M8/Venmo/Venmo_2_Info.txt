@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1896 packets seen, 1869 TCP packets traced
+#elapsed wallclock time: 0:00:00.618542, 3065 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.536712
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1051 packets seen, 1049 TCP packets traced
+#elapsed wallclock time: 0:00:00.272206, 3861 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.642925
+#TCP connection info:
+#28 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#660 packets seen, 654 TCP packets traced
+#elapsed wallclock time: 0:00:00.284180, 2322 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.363540
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#282 packets seen, 278 TCP packets traced
+#elapsed wallclock time: 0:00:00.237061, 1189 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.956693
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1273 packets seen, 1259 TCP packets traced
+#elapsed wallclock time: 0:00:00.265636, 4792 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.312269
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#773 packets seen, 771 TCP packets traced
+#elapsed wallclock time: 0:00:00.203306, 3802 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.350130
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#900 packets seen, 896 TCP packets traced
+#elapsed wallclock time: 0:00:00.364698, 2467 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.161083
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#726 packets seen, 722 TCP packets traced
+#elapsed wallclock time: 0:00:00.224259, 3237 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.559193
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#892 packets seen, 888 TCP packets traced
+#elapsed wallclock time: 0:00:00.227062, 3928 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.354886
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1286 packets seen, 1286 TCP packets traced
+#elapsed wallclock time: 0:00:00.254695, 5049 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.206493
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#964 packets seen, 960 TCP packets traced
+#elapsed wallclock time: 0:00:00.258330, 3731 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.154474
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1651 packets seen, 1647 TCP packets traced
+#elapsed wallclock time: 0:00:00.259450, 6363 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.517952
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#419 packets seen, 415 TCP packets traced
+#elapsed wallclock time: 0:00:00.301056, 1391 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.041705
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1499 packets seen, 1497 TCP packets traced
+#elapsed wallclock time: 0:00:00.234918, 6380 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.292018
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#972 packets seen, 966 TCP packets traced
+#elapsed wallclock time: 0:00:00.329055, 2953 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.363569
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1312 packets seen, 1302 TCP packets traced
+#elapsed wallclock time: 0:00:00.254818, 5148 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.502653
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1477 packets seen, 1471 TCP packets traced
+#elapsed wallclock time: 0:00:00.309128, 4777 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.623467
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#773 packets seen, 769 TCP packets traced
+#elapsed wallclock time: 0:00:00.309303, 2499 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.494374
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1358 packets seen, 1356 TCP packets traced
+#elapsed wallclock time: 0:00:00.268293, 5061 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.928842
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#730 packets seen, 721 TCP packets traced
+#elapsed wallclock time: 0:00:00.250334, 2916 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.061596
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#958 packets seen, 952 TCP packets traced
+#elapsed wallclock time: 0:00:00.225492, 4248 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.348405
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#253 packets seen, 251 TCP packets traced
+#elapsed wallclock time: 0:00:00.218126, 1159 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.138068
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1765 packets seen, 1765 TCP packets traced
+#elapsed wallclock time: 0:00:00.241175, 7318 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.512233
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1355 packets seen, 1353 TCP packets traced
+#elapsed wallclock time: 0:00:00.214258, 6324 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.356037
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#383 packets seen, 381 TCP packets traced
+#elapsed wallclock time: 0:00:00.236214, 1621 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.091088
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#906 packets seen, 902 TCP packets traced
+#elapsed wallclock time: 0:00:00.268075, 3379 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.280076
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#806 packets seen, 800 TCP packets traced
+#elapsed wallclock time: 0:00:00.244370, 3298 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.125408
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1684 packets seen, 1682 TCP packets traced
+#elapsed wallclock time: 0:00:00.292364, 5759 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.633115
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1319 packets seen, 1315 TCP packets traced
+#elapsed wallclock time: 0:00:00.257855, 5115 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.435372
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Venmo/2/Venmo30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#745 packets seen, 743 TCP packets traced
+#elapsed wallclock time: 0:00:00.262339, 2839 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.028370
+#TCP connection info:
+#12 TCP connections traced:

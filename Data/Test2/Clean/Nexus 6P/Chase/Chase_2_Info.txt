@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#259 packets seen, 251 TCP packets traced
+#elapsed wallclock time: 0:00:00.111064, 2331 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.052164
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 113 TCP packets traced
+#elapsed wallclock time: 0:00:00.064206, 1822 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.076623
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#137 packets seen, 131 TCP packets traced
+#elapsed wallclock time: 0:00:00.084266, 1625 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.486518
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#118 packets seen, 114 TCP packets traced
+#elapsed wallclock time: 0:00:00.071983, 1639 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.154790
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.040430, 2151 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.298510
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#136 packets seen, 130 TCP packets traced
+#elapsed wallclock time: 0:00:00.078515, 1732 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.995902
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#138 packets seen, 132 TCP packets traced
+#elapsed wallclock time: 0:00:00.154911, 890 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.088357
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 114 TCP packets traced
+#elapsed wallclock time: 0:00:00.071468, 1679 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.020413
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#132 packets seen, 128 TCP packets traced
+#elapsed wallclock time: 0:00:00.113885, 1159 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.649897
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#145 packets seen, 139 TCP packets traced
+#elapsed wallclock time: 0:00:00.125950, 1151 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.261027
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.073026, 1656 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.332779
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#134 packets seen, 132 TCP packets traced
+#elapsed wallclock time: 0:00:00.117891, 1136 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.257120
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#98 packets seen, 94 TCP packets traced
+#elapsed wallclock time: 0:00:00.111062, 882 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.084296
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#161 packets seen, 159 TCP packets traced
+#elapsed wallclock time: 0:00:00.120328, 1338 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.778103
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#95 packets seen, 93 TCP packets traced
+#elapsed wallclock time: 0:00:00.056570, 1679 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.817248
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#134 packets seen, 130 TCP packets traced
+#elapsed wallclock time: 0:00:00.163362, 820 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.839039
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#171 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.064079, 2668 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.025368
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#135 packets seen, 129 TCP packets traced
+#elapsed wallclock time: 0:00:00.112568, 1199 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.751977
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 98 TCP packets traced
+#elapsed wallclock time: 0:00:00.050289, 2107 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.478900
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#133 packets seen, 131 TCP packets traced
+#elapsed wallclock time: 0:00:00.067541, 1969 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.083499
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#137 packets seen, 133 TCP packets traced
+#elapsed wallclock time: 0:00:00.118107, 1159 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.598911
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#138 packets seen, 132 TCP packets traced
+#elapsed wallclock time: 0:00:00.048494, 2845 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.827957
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#140 packets seen, 134 TCP packets traced
+#elapsed wallclock time: 0:00:00.119997, 1166 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.214559
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.055683, 2011 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.582260
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#101 packets seen, 97 TCP packets traced
+#elapsed wallclock time: 0:00:00.052669, 1917 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.112335
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#133 packets seen, 133 TCP packets traced
+#elapsed wallclock time: 0:00:00.063264, 2102 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.137683
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#135 packets seen, 129 TCP packets traced
+#elapsed wallclock time: 0:00:00.063852, 2114 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.077452
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#148 packets seen, 142 TCP packets traced
+#elapsed wallclock time: 0:00:00.112574, 1314 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.511041
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#137 packets seen, 133 TCP packets traced
+#elapsed wallclock time: 0:00:00.120495, 1136 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.751736
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Chase/2/Chase30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.170747, 755 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.575143
+#TCP connection info:
+#7 TCP connections traced:

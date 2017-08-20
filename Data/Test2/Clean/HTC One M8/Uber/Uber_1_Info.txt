@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#189 packets seen, 185 TCP packets traced
+#elapsed wallclock time: 0:00:00.172135, 1097 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.247451
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#246 packets seen, 244 TCP packets traced
+#elapsed wallclock time: 0:00:00.233206, 1054 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.806939
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#206 packets seen, 202 TCP packets traced
+#elapsed wallclock time: 0:00:00.120809, 1705 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.455889
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#207 packets seen, 207 TCP packets traced
+#elapsed wallclock time: 0:00:00.089715, 2307 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.577814
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#211 packets seen, 211 TCP packets traced
+#elapsed wallclock time: 0:00:00.144219, 1463 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.676862
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#204 packets seen, 201 TCP packets traced
+#elapsed wallclock time: 0:00:00.134609, 1515 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.709264
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#224 packets seen, 218 TCP packets traced
+#elapsed wallclock time: 0:00:00.156974, 1426 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.664653
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#171 packets seen, 168 TCP packets traced
+#elapsed wallclock time: 0:00:00.106294, 1608 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.068902
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#200 packets seen, 199 TCP packets traced
+#elapsed wallclock time: 0:00:00.191322, 1045 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.523743
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#205 packets seen, 203 TCP packets traced
+#elapsed wallclock time: 0:00:00.115595, 1773 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.060008
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#200 packets seen, 198 TCP packets traced
+#elapsed wallclock time: 0:00:00.136200, 1468 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.283474
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#177 packets seen, 176 TCP packets traced
+#elapsed wallclock time: 0:00:00.148938, 1188 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.147463
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#175 packets seen, 171 TCP packets traced
+#elapsed wallclock time: 0:00:00.190515, 918 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.121135
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#199 packets seen, 194 TCP packets traced
+#elapsed wallclock time: 0:00:00.129892, 1532 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.367862
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#176 packets seen, 172 TCP packets traced
+#elapsed wallclock time: 0:00:00.110305, 1595 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.263168
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#230 packets seen, 230 TCP packets traced
+#elapsed wallclock time: 0:00:00.141197, 1628 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.407354
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#214 packets seen, 211 TCP packets traced
+#elapsed wallclock time: 0:00:00.136658, 1565 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.501009
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#32 packets seen, 27 TCP packets traced
+#elapsed wallclock time: 0:00:00.133968, 238 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.258650
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#198 packets seen, 189 TCP packets traced
+#elapsed wallclock time: 0:00:00.129265, 1531 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.703938
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#237 packets seen, 235 TCP packets traced
+#elapsed wallclock time: 0:00:00.252044, 940 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.941560
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#184 packets seen, 178 TCP packets traced
+#elapsed wallclock time: 0:00:00.120714, 1524 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.259468
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#215 packets seen, 211 TCP packets traced
+#elapsed wallclock time: 0:00:00.203758, 1055 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.602082
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#218 packets seen, 218 TCP packets traced
+#elapsed wallclock time: 0:00:00.103265, 2111 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.652909
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#208 packets seen, 208 TCP packets traced
+#elapsed wallclock time: 0:00:00.152388, 1364 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.069045
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#166 packets seen, 166 TCP packets traced
+#elapsed wallclock time: 0:00:00.102318, 1622 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.424506
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#181 packets seen, 175 TCP packets traced
+#elapsed wallclock time: 0:00:00.199110, 909 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.276867
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#193 packets seen, 193 TCP packets traced
+#elapsed wallclock time: 0:00:00.127381, 1515 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.348943
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#201 packets seen, 199 TCP packets traced
+#elapsed wallclock time: 0:00:00.131406, 1529 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.122774
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#200 packets seen, 194 TCP packets traced
+#elapsed wallclock time: 0:00:00.150388, 1329 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.863253
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Uber/1/Uber30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 182 TCP packets traced
+#elapsed wallclock time: 0:00:00.096219, 1922 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.123000
+#TCP connection info:
+#5 TCP connections traced:

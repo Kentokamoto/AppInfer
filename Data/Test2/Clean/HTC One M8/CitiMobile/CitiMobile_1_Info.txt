@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2818 packets seen, 2818 TCP packets traced
+#elapsed wallclock time: 0:00:00.035496, 79389 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.672228
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.094623, 517 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.951318
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#81 packets seen, 74 TCP packets traced
+#elapsed wallclock time: 0:00:00.100489, 806 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.333391
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.432368, 120 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.010130
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#45 packets seen, 45 TCP packets traced
+#elapsed wallclock time: 0:00:00.026885, 1673 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.822501
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.273980, 189 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.043673
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.060201, 830 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.660302
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.171328, 297 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.840708
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.043117, 1159 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.928928
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#55 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.207510, 265 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.057065
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#81 packets seen, 79 TCP packets traced
+#elapsed wallclock time: 0:00:00.089363, 906 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.929616
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.035402, 1412 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.948782
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#100 packets seen, 96 TCP packets traced
+#elapsed wallclock time: 0:00:00.345243, 289 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.906000
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.294519, 169 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.504348
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 40 TCP packets traced
+#elapsed wallclock time: 0:00:00.285134, 147 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.637195
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#47 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.190912, 246 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.497213
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.034805, 1407 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.027648
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#56 packets seen, 53 TCP packets traced
+#elapsed wallclock time: 0:00:00.115318, 485 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.781277
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 52 TCP packets traced
+#elapsed wallclock time: 0:00:00.034589, 1503 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.980234
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#54 packets seen, 52 TCP packets traced
+#elapsed wallclock time: 0:00:00.207133, 260 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.338795
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 88 TCP packets traced
+#elapsed wallclock time: 0:00:00.134817, 667 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.948630
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.062357, 801 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.251945
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.059609, 805 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.304688
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.045218, 1083 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.007163
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.037766, 1297 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.996281
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.046752, 1090 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.135406
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#75 packets seen, 73 TCP packets traced
+#elapsed wallclock time: 0:00:00.234438, 319 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.067632
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#53 packets seen, 53 TCP packets traced
+#elapsed wallclock time: 0:00:00.039075, 1356 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.022691
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.033789, 1450 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.056668
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/CitiMobile/1/CitiMobile30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#47 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.030084, 1562 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.032039
+#TCP connection info:
+#2 TCP connections traced:

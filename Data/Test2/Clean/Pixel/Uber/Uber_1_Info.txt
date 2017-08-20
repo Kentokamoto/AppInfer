@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#59 packets seen, 57 TCP packets traced
+#elapsed wallclock time: 0:00:00.049616, 1189 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.491281
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#283 packets seen, 271 TCP packets traced
+#elapsed wallclock time: 0:00:00.257635, 1098 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.100562
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#158 packets seen, 158 TCP packets traced
+#elapsed wallclock time: 0:00:00.085022, 1858 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.770554
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#119 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.112684, 1056 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.795245
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#162 packets seen, 160 TCP packets traced
+#elapsed wallclock time: 0:00:00.107485, 1507 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.080804
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#193 packets seen, 189 TCP packets traced
+#elapsed wallclock time: 0:00:00.158750, 1215 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.199072
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#158 packets seen, 156 TCP packets traced
+#elapsed wallclock time: 0:00:00.086190, 1833 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.767238
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#168 packets seen, 164 TCP packets traced
+#elapsed wallclock time: 0:00:00.074741, 2247 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.130829
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#160 packets seen, 160 TCP packets traced
+#elapsed wallclock time: 0:00:00.159157, 1005 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.099339
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#175 packets seen, 171 TCP packets traced
+#elapsed wallclock time: 0:00:00.081217, 2154 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.411832
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#156 packets seen, 150 TCP packets traced
+#elapsed wallclock time: 0:00:00.104557, 1492 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.902444
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#163 packets seen, 161 TCP packets traced
+#elapsed wallclock time: 0:00:00.099092, 1644 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.899171
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#172 packets seen, 170 TCP packets traced
+#elapsed wallclock time: 0:00:00.110301, 1559 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.237703
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#150 packets seen, 148 TCP packets traced
+#elapsed wallclock time: 0:00:00.098139, 1528 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.847852
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#151 packets seen, 151 TCP packets traced
+#elapsed wallclock time: 0:00:00.103037, 1465 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.874384
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#184 packets seen, 182 TCP packets traced
+#elapsed wallclock time: 0:00:00.100427, 1832 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.525420
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#174 packets seen, 170 TCP packets traced
+#elapsed wallclock time: 0:00:00.090414, 1924 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.942141
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#159 packets seen, 159 TCP packets traced
+#elapsed wallclock time: 0:00:00.093209, 1705 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.801615
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#179 packets seen, 177 TCP packets traced
+#elapsed wallclock time: 0:00:00.077357, 2313 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.090526
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#158 packets seen, 158 TCP packets traced
+#elapsed wallclock time: 0:00:00.059303, 2664 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.880012
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#191 packets seen, 187 TCP packets traced
+#elapsed wallclock time: 0:00:00.093178, 2049 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.317677
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#144 packets seen, 144 TCP packets traced
+#elapsed wallclock time: 0:00:00.068478, 2102 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.773236
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#138 packets seen, 138 TCP packets traced
+#elapsed wallclock time: 0:00:00.078660, 1754 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.797887
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#184 packets seen, 177 TCP packets traced
+#elapsed wallclock time: 0:00:00.128997, 1426 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.106392
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#170 packets seen, 168 TCP packets traced
+#elapsed wallclock time: 0:00:00.110611, 1536 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.117345
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#118 packets seen, 100 TCP packets traced
+#elapsed wallclock time: 0:00:00.129210, 913 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.567275
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#168 packets seen, 164 TCP packets traced
+#elapsed wallclock time: 0:00:00.066810, 2514 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.021403
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#160 packets seen, 158 TCP packets traced
+#elapsed wallclock time: 0:00:00.100041, 1599 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.821035
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#167 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.095620, 1746 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.883432
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Uber/1/Uber30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#164 packets seen, 162 TCP packets traced
+#elapsed wallclock time: 0:00:00.087862, 1866 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.757714
+#TCP connection info:
+#4 TCP connections traced:

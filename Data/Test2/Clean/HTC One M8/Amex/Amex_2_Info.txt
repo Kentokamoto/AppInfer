@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.077173, 570 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.920621
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.120760, 331 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.698178
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.239966, 170 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.701255
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.077637, 489 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.698409
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.096183, 457 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.708169
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.062706, 621 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.722349
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.068782, 596 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.751964
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.077265, 504 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.683461
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.061884, 630 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.703363
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.077521, 567 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.719450
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.076591, 496 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.686842
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.105261, 475 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.677642
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.073452, 558 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.784950
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.073399, 531 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.722154
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#47 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.174711, 269 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.821837
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#80 packets seen, 80 TCP packets traced
+#elapsed wallclock time: 0:00:00.298740, 267 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.097438
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 40 TCP packets traced
+#elapsed wallclock time: 0:00:00.094364, 445 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.239881
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.082599, 496 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.728571
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#58 packets seen, 54 TCP packets traced
+#elapsed wallclock time: 0:00:00.296770, 195 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.071981
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 40 TCP packets traced
+#elapsed wallclock time: 0:00:00.135329, 295 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.721569
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.076463, 523 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.578170
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.072414, 524 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.685151
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.093404, 438 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.742899
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.073537, 557 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.718873
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.055646, 682 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.722011
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.057962, 707 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.700667
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.078552, 483 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.747478
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.092792, 441 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.708194
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#60 packets seen, 56 TCP packets traced
+#elapsed wallclock time: 0:00:00.173579, 345 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.002788
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Amex/2/Amex30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#41 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.081200, 504 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.761441
+#TCP connection info:
+#2 TCP connections traced:

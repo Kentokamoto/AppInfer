@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#351 packets seen, 347 TCP packets traced
+#elapsed wallclock time: 0:00:00.144937, 2421 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.676968
+#TCP connection info:
+#21 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#47 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.062219, 755 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.295933
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.061576, 682 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.260444
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.063115, 697 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.225849
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 40 TCP packets traced
+#elapsed wallclock time: 0:00:00.060222, 664 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.235352
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#46 packets seen, 44 TCP packets traced
+#elapsed wallclock time: 0:00:00.098437, 467 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.616308
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 44 TCP packets traced
+#elapsed wallclock time: 0:00:00.083851, 572 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.925738
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.088307, 543 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.763332
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#45 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.080350, 560 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.273744
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.080805, 519 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.829715
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#46 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.062196, 739 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.269482
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#60 packets seen, 60 TCP packets traced
+#elapsed wallclock time: 0:00:00.282491, 212 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.698164
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#296 packets seen, 290 TCP packets traced
+#elapsed wallclock time: 0:00:00.186638, 1585 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.077898
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 46 TCP packets traced
+#elapsed wallclock time: 0:00:00.556235, 89 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.388102
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#58 packets seen, 58 TCP packets traced
+#elapsed wallclock time: 0:00:00.164778, 351 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.532279
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#69 packets seen, 65 TCP packets traced
+#elapsed wallclock time: 0:00:00.108037, 638 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.077860
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.046708, 942 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.230374
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.122374, 907 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.413917
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 46 TCP packets traced
+#elapsed wallclock time: 0:00:00.056423, 886 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.256446
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#45 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.055804, 806 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.234608
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#46 packets seen, 46 TCP packets traced
+#elapsed wallclock time: 0:00:00.123600, 372 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.735820
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#47 packets seen, 45 TCP packets traced
+#elapsed wallclock time: 0:00:00.057613, 815 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.738485
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#55 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.164958, 333 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.509809
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.065674, 654 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.425494
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#46 packets seen, 46 TCP packets traced
+#elapsed wallclock time: 0:00:00.055157, 833 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.397823
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#46 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.097586, 471 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.272647
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.128061, 343 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.587254
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.069819, 730 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.480886
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 40 TCP packets traced
+#elapsed wallclock time: 0:00:00.059312, 741 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.274678
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Facebook/1/Facebook30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 42 TCP packets traced
+#elapsed wallclock time: 0:00:00.070396, 596 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.224277
+#TCP connection info:
+#2 TCP connections traced:

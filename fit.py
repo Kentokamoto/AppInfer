@@ -12,7 +12,8 @@ from sklearn.utils import shuffle
 from sklearn.feature_selection import RFE
 from sklearn.metrics import accuracy_score,classification_report
 #order of events
-#1. Load the data
+#1. Load the Datai
+devices = [ "HTC One M8", "Nexus 6P", "Pixel" ]
 apps = ["Facebook", "Messenger", "Snapchat", "Spotify", "Twitter",
         "Uber", "Venmo", "Waze", "WhatsApp", "Yelp"]
 
@@ -20,16 +21,18 @@ tables = []
 labels = []
 count = 1
 labelMap = {}
-for app in apps:
-    path = "./Data/Clean/"+app +"/"+app+"_final.csv"
-    tab = pd.read_csv(path)
-    labelMap[count] = app 
-    print(len(tab.index))
-    for i in range(len(tab.index)):
-        labels.append(count)
+path = "Test2"
+for dev in devices:
+    for app in apps:
+        path = "./Data/"+ path +"Clean/"+app +"/"+app+"_final.csv"
+        tab = pd.read_csv(path)
+        labelMap[count] = app 
+        print(len(tab.index))
+        for i in range(len(tab.index)):
+            labels.append(count)
 
-    count+= 1
-    tables.append(tab)
+        count+= 1
+        tables.append(tab)
 
 combine = pd.concat(tables)
 matrixCombine = combine.as_matrix()

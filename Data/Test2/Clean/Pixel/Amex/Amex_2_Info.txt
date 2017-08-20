@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.094107, 414 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.672134
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.074867, 520 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.465411
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.077329, 478 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.540802
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.092016, 412 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.518591
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.074028, 526 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.503857
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.061283, 636 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.457280
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.071570, 558 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.529373
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.070535, 567 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.760597
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.058938, 644 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.454509
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 40 TCP packets traced
+#elapsed wallclock time: 0:00:00.096624, 413 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.992526
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.066944, 642 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.458251
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.063135, 601 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.538158
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.063014, 587 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.444301
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.054886, 728 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.446587
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.068169, 572 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.717390
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.051582, 736 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.453225
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.054411, 771 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.485764
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#39 packets seen, 39 TCP packets traced
+#elapsed wallclock time: 0:00:00.047903, 814 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.469330
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.068127, 587 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.598325
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.064247, 575 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.447419
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#238 packets seen, 217 TCP packets traced
+#elapsed wallclock time: 0:00:00.370144, 642 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.018493
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.050890, 746 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.476020
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.051799, 772 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.481227
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#38 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.060069, 632 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.730061
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 81 TCP packets traced
+#elapsed wallclock time: 0:00:00.093260, 911 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.220653
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.067379, 638 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.759795
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#61 packets seen, 59 TCP packets traced
+#elapsed wallclock time: 0:00:00.118039, 516 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.380922
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.054936, 673 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.422588
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#37 packets seen, 37 TCP packets traced
+#elapsed wallclock time: 0:00:00.061901, 597 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.467723
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Amex/2/Amex30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.076150, 525 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.545640
+#TCP connection info:
+#2 TCP connections traced:

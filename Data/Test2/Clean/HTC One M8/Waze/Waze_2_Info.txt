@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#234 packets seen, 218 TCP packets traced
+#elapsed wallclock time: 0:00:00.132998, 1759 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.052770
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#276 packets seen, 264 TCP packets traced
+#elapsed wallclock time: 0:00:00.204123, 1352 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.467284
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#213 packets seen, 203 TCP packets traced
+#elapsed wallclock time: 0:00:00.118273, 1800 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.920894
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 183 TCP packets traced
+#elapsed wallclock time: 0:00:00.118969, 1555 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.287523
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#199 packets seen, 195 TCP packets traced
+#elapsed wallclock time: 0:00:00.188055, 1058 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.225540
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#181 packets seen, 181 TCP packets traced
+#elapsed wallclock time: 0:00:00.108488, 1668 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.897717
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#157 packets seen, 155 TCP packets traced
+#elapsed wallclock time: 0:00:00.108378, 1448 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.766876
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#173 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.105419, 1641 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.742574
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#205 packets seen, 199 TCP packets traced
+#elapsed wallclock time: 0:00:00.202370, 1012 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.403740
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#162 packets seen, 160 TCP packets traced
+#elapsed wallclock time: 0:00:00.114703, 1412 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.017097
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#253 packets seen, 241 TCP packets traced
+#elapsed wallclock time: 0:00:00.199046, 1271 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.307087
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#181 packets seen, 181 TCP packets traced
+#elapsed wallclock time: 0:00:00.091735, 1973 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.947087
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#177 packets seen, 173 TCP packets traced
+#elapsed wallclock time: 0:00:00.129949, 1362 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.002043
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#155 packets seen, 153 TCP packets traced
+#elapsed wallclock time: 0:00:00.121216, 1278 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.800415
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#163 packets seen, 155 TCP packets traced
+#elapsed wallclock time: 0:00:00.125956, 1294 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.529456
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#181 packets seen, 181 TCP packets traced
+#elapsed wallclock time: 0:00:00.130069, 1391 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.850034
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#177 packets seen, 173 TCP packets traced
+#elapsed wallclock time: 0:00:00.095597, 1851 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.861821
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#164 packets seen, 158 TCP packets traced
+#elapsed wallclock time: 0:00:00.147655, 1110 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.742869
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#173 packets seen, 171 TCP packets traced
+#elapsed wallclock time: 0:00:00.214652, 805 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.399644
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#196 packets seen, 194 TCP packets traced
+#elapsed wallclock time: 0:00:00.148864, 1316 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.990586
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#203 packets seen, 199 TCP packets traced
+#elapsed wallclock time: 0:00:00.113107, 1794 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.137059
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#154 packets seen, 146 TCP packets traced
+#elapsed wallclock time: 0:00:00.104035, 1480 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.756866
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#175 packets seen, 171 TCP packets traced
+#elapsed wallclock time: 0:00:00.122673, 1426 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.725497
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#156 packets seen, 156 TCP packets traced
+#elapsed wallclock time: 0:00:00.104463, 1493 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.933781
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#163 packets seen, 157 TCP packets traced
+#elapsed wallclock time: 0:00:00.135504, 1202 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.914200
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#162 packets seen, 162 TCP packets traced
+#elapsed wallclock time: 0:00:00.088537, 1829 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.558326
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#185 packets seen, 183 TCP packets traced
+#elapsed wallclock time: 0:00:00.094033, 1967 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.962539
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#212 packets seen, 201 TCP packets traced
+#elapsed wallclock time: 0:00:00.139490, 1519 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.079077
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#160 packets seen, 160 TCP packets traced
+#elapsed wallclock time: 0:00:00.149602, 1069 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.458489
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Waze/2/Waze30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#191 packets seen, 189 TCP packets traced
+#elapsed wallclock time: 0:00:00.159804, 1195 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.836389
+#TCP connection info:
+#7 TCP connections traced:

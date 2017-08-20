@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1392 packets seen, 1370 TCP packets traced
+#elapsed wallclock time: 0:00:00.274847, 5064 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.182814
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#981 packets seen, 976 TCP packets traced
+#elapsed wallclock time: 0:00:00.185925, 5276 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.663514
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1275 packets seen, 1273 TCP packets traced
+#elapsed wallclock time: 0:00:00.205662, 6199 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.937094
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1157 packets seen, 1151 TCP packets traced
+#elapsed wallclock time: 0:00:00.166340, 6955 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.202256
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#862 packets seen, 862 TCP packets traced
+#elapsed wallclock time: 0:00:00.165669, 5203 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.016840
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1244 packets seen, 1237 TCP packets traced
+#elapsed wallclock time: 0:00:00.177868, 6993 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.902425
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#709 packets seen, 688 TCP packets traced
+#elapsed wallclock time: 0:00:00.172594, 4107 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.053624
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1078 packets seen, 1071 TCP packets traced
+#elapsed wallclock time: 0:00:00.188254, 5726 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.427179
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#884 packets seen, 875 TCP packets traced
+#elapsed wallclock time: 0:00:00.181837, 4861 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.828328
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1478 packets seen, 1478 TCP packets traced
+#elapsed wallclock time: 0:00:00.205543, 7190 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.526755
+#TCP connection info:
+#17 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#647 packets seen, 643 TCP packets traced
+#elapsed wallclock time: 0:00:00.162801, 3974 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.194376
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#138 packets seen, 125 TCP packets traced
+#elapsed wallclock time: 0:00:00.157536, 875 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.212879
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#777 packets seen, 771 TCP packets traced
+#elapsed wallclock time: 0:00:00.248017, 3132 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.842417
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1627 packets seen, 1623 TCP packets traced
+#elapsed wallclock time: 0:00:01.843215, 882 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.640776
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1093 packets seen, 1089 TCP packets traced
+#elapsed wallclock time: 0:00:00.205765, 5311 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.155394
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1834 packets seen, 1834 TCP packets traced
+#elapsed wallclock time: 0:00:00.185421, 9891 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.664266
+#TCP connection info:
+#20 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1580 packets seen, 1578 TCP packets traced
+#elapsed wallclock time: 0:00:00.159041, 9934 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.348441
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#980 packets seen, 973 TCP packets traced
+#elapsed wallclock time: 0:00:00.182677, 5364 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.641024
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1078 packets seen, 1078 TCP packets traced
+#elapsed wallclock time: 0:00:00.199700, 5398 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.871257
+#TCP connection info:
+#19 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2110 packets seen, 2108 TCP packets traced
+#elapsed wallclock time: 0:00:00.216061, 9765 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.065420
+#TCP connection info:
+#18 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1003 packets seen, 999 TCP packets traced
+#elapsed wallclock time: 0:00:00.214753, 4670 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.354768
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#839 packets seen, 833 TCP packets traced
+#elapsed wallclock time: 0:00:00.201167, 4170 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.882841
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#665 packets seen, 654 TCP packets traced
+#elapsed wallclock time: 0:00:00.240206, 2768 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.473217
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1311 packets seen, 1311 TCP packets traced
+#elapsed wallclock time: 0:00:00.257203, 5097 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.736638
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1329 packets seen, 1329 TCP packets traced
+#elapsed wallclock time: 0:00:00.185294, 7172 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.254343
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#943 packets seen, 943 TCP packets traced
+#elapsed wallclock time: 0:00:00.248469, 3795 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.427198
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1141 packets seen, 1135 TCP packets traced
+#elapsed wallclock time: 0:00:00.224598, 5080 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.682083
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1231 packets seen, 1229 TCP packets traced
+#elapsed wallclock time: 0:00:00.213636, 5762 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.513957
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1013 packets seen, 1009 TCP packets traced
+#elapsed wallclock time: 0:00:00.214372, 4725 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.775695
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Venmo/1/Venmo30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2021 packets seen, 2014 TCP packets traced
+#elapsed wallclock time: 0:00:00.225564, 8959 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.478619
+#TCP connection info:
+#15 TCP connections traced:

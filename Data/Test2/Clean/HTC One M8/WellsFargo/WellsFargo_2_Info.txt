@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1066 packets seen, 1054 TCP packets traced
+#elapsed wallclock time: 0:00:00.240213, 4437 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.703789
+#TCP connection info:
+#19 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#126 packets seen, 124 TCP packets traced
+#elapsed wallclock time: 0:00:00.088694, 1420 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.463243
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.074370, 1210 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.444480
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.071708, 1255 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.100103
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.077915, 1142 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.488928
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.073463, 1225 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.276384
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.077229, 1152 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.438936
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#98 packets seen, 98 TCP packets traced
+#elapsed wallclock time: 0:00:00.082039, 1194 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.400546
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#88 packets seen, 88 TCP packets traced
+#elapsed wallclock time: 0:00:00.066379, 1325 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.544874
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.052088, 1708 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.272326
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#214 packets seen, 210 TCP packets traced
+#elapsed wallclock time: 0:00:00.181133, 1181 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.438080
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.053545, 1606 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.475722
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 87 TCP packets traced
+#elapsed wallclock time: 0:00:00.073285, 1187 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.554479
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.069531, 1294 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.424218
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.085504, 1075 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.161278
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.094308, 943 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.835983
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.062708, 1355 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.512146
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.051013, 1744 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.067738
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#102 packets seen, 98 TCP packets traced
+#elapsed wallclock time: 0:00:00.260293, 391 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.296371
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2 packets seen, 2 TCP packets traced
+#elapsed wallclock time: 0:00:00.032390, 61 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.059715
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.049893, 1703 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.626522
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 87 TCP packets traced
+#elapsed wallclock time: 0:00:00.057406, 1515 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.583494
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 87 TCP packets traced
+#elapsed wallclock time: 0:00:00.056826, 1530 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.547474
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.050323, 1708 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.521754
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.061442, 1448 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.055795
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.307718, 289 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.385675
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.063249, 1660 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.504788
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.054675, 1554 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.486437
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.045724, 2012 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.619566
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/WellsFargo/2/WellsFargo30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.054350, 1637 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.478145
+#TCP connection info:
+#4 TCP connections traced:

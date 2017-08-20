@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#173 packets seen, 168 TCP packets traced
+#elapsed wallclock time: 0:00:00.168966, 1023 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.992951
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#194 packets seen, 190 TCP packets traced
+#elapsed wallclock time: 0:00:00.134957, 1437 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.606787
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#187 packets seen, 185 TCP packets traced
+#elapsed wallclock time: 0:00:00.126066, 1483 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.523947
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#156 packets seen, 152 TCP packets traced
+#elapsed wallclock time: 0:00:00.113025, 1380 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.040737
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#184 packets seen, 182 TCP packets traced
+#elapsed wallclock time: 0:00:00.128230, 1434 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.001460
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#196 packets seen, 194 TCP packets traced
+#elapsed wallclock time: 0:00:00.126690, 1547 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.585049
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#169 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.111097, 1521 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.943744
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#203 packets seen, 201 TCP packets traced
+#elapsed wallclock time: 0:00:00.144042, 1409 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.815264
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#191 packets seen, 191 TCP packets traced
+#elapsed wallclock time: 0:00:00.126947, 1504 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.640432
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#150 packets seen, 145 TCP packets traced
+#elapsed wallclock time: 0:00:00.243060, 617 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.261324
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#96 packets seen, 96 TCP packets traced
+#elapsed wallclock time: 0:00:00.134923, 711 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.565878
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#208 packets seen, 205 TCP packets traced
+#elapsed wallclock time: 0:00:00.125227, 1660 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.571218
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#174 packets seen, 166 TCP packets traced
+#elapsed wallclock time: 0:00:00.264742, 657 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.743726
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#196 packets seen, 194 TCP packets traced
+#elapsed wallclock time: 0:00:00.097395, 2012 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.580147
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#199 packets seen, 195 TCP packets traced
+#elapsed wallclock time: 0:00:00.182331, 1091 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.463039
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#166 packets seen, 159 TCP packets traced
+#elapsed wallclock time: 0:00:00.088925, 1866 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.048721
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#203 packets seen, 199 TCP packets traced
+#elapsed wallclock time: 0:00:00.091693, 2213 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.792012
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#201 packets seen, 199 TCP packets traced
+#elapsed wallclock time: 0:00:00.334144, 601 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.891671
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#163 packets seen, 161 TCP packets traced
+#elapsed wallclock time: 0:00:00.086645, 1881 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.628210
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#193 packets seen, 193 TCP packets traced
+#elapsed wallclock time: 0:00:00.089621, 2153 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.182532
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#180 packets seen, 178 TCP packets traced
+#elapsed wallclock time: 0:00:00.084535, 2129 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.577128
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#192 packets seen, 190 TCP packets traced
+#elapsed wallclock time: 0:00:00.082516, 2326 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.935033
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#199 packets seen, 193 TCP packets traced
+#elapsed wallclock time: 0:00:00.117388, 1695 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.162668
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#197 packets seen, 195 TCP packets traced
+#elapsed wallclock time: 0:00:00.100134, 1967 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.522790
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#162 packets seen, 158 TCP packets traced
+#elapsed wallclock time: 0:00:00.123730, 1309 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.654831
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#181 packets seen, 177 TCP packets traced
+#elapsed wallclock time: 0:00:00.088586, 2043 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.763536
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#199 packets seen, 199 TCP packets traced
+#elapsed wallclock time: 0:00:00.096324, 2065 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.823719
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#171 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.108122, 1581 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.376687
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#184 packets seen, 184 TCP packets traced
+#elapsed wallclock time: 0:00:00.102840, 1789 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.621611
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USBank/2/USBank30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#169 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.134903, 1252 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.910191
+#TCP connection info:
+#7 TCP connections traced:

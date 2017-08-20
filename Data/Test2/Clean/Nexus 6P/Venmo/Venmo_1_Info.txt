@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1034 packets seen, 1015 TCP packets traced
+#elapsed wallclock time: 0:00:00.231558, 4465 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.236083
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1082 packets seen, 1082 TCP packets traced
+#elapsed wallclock time: 0:00:00.237819, 4549 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.556416
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#214 packets seen, 214 TCP packets traced
+#elapsed wallclock time: 0:00:00.187996, 1138 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.672668
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#660 packets seen, 650 TCP packets traced
+#elapsed wallclock time: 0:00:00.274862, 2401 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.364875
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#905 packets seen, 899 TCP packets traced
+#elapsed wallclock time: 0:00:00.193274, 4682 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.991478
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1052 packets seen, 1043 TCP packets traced
+#elapsed wallclock time: 0:00:00.331545, 3173 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.860368
+#TCP connection info:
+#23 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#720 packets seen, 718 TCP packets traced
+#elapsed wallclock time: 0:00:00.182780, 3939 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.231860
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#753 packets seen, 749 TCP packets traced
+#elapsed wallclock time: 0:00:00.180031, 4182 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.219043
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1097 packets seen, 1095 TCP packets traced
+#elapsed wallclock time: 0:00:00.222191, 4937 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.215491
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1094 packets seen, 1086 TCP packets traced
+#elapsed wallclock time: 0:00:00.236105, 4633 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.181204
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#683 packets seen, 679 TCP packets traced
+#elapsed wallclock time: 0:00:00.246776, 2767 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.894880
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1435 packets seen, 1429 TCP packets traced
+#elapsed wallclock time: 0:00:00.249027, 5762 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.499299
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#200 packets seen, 198 TCP packets traced
+#elapsed wallclock time: 0:00:00.171721, 1164 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.613636
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#952 packets seen, 950 TCP packets traced
+#elapsed wallclock time: 0:00:00.305899, 3112 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.538567
+#TCP connection info:
+#18 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1575 packets seen, 1573 TCP packets traced
+#elapsed wallclock time: 0:00:00.207756, 7581 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.731325
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1414 packets seen, 1403 TCP packets traced
+#elapsed wallclock time: 0:00:00.245793, 5752 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.569427
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1370 packets seen, 1364 TCP packets traced
+#elapsed wallclock time: 0:00:00.273075, 5016 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.243742
+#TCP connection info:
+#18 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#847 packets seen, 843 TCP packets traced
+#elapsed wallclock time: 0:00:00.238120, 3557 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.538352
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1314 packets seen, 1308 TCP packets traced
+#elapsed wallclock time: 0:00:00.447333, 2937 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.347446
+#TCP connection info:
+#18 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#450 packets seen, 444 TCP packets traced
+#elapsed wallclock time: 0:00:00.269467, 1669 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.490988
+#TCP connection info:
+#17 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#3188 packets seen, 3188 TCP packets traced
+#elapsed wallclock time: 0:00:00.126865, 25129 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.980418
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#755 packets seen, 749 TCP packets traced
+#elapsed wallclock time: 0:00:00.413114, 1827 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.316117
+#TCP connection info:
+#18 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#692 packets seen, 690 TCP packets traced
+#elapsed wallclock time: 0:00:00.287120, 2410 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.718569
+#TCP connection info:
+#16 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#939 packets seen, 931 TCP packets traced
+#elapsed wallclock time: 0:00:00.340086, 2761 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.447109
+#TCP connection info:
+#17 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#806 packets seen, 798 TCP packets traced
+#elapsed wallclock time: 0:00:00.262416, 3071 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.101811
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#895 packets seen, 891 TCP packets traced
+#elapsed wallclock time: 0:00:00.315820, 2833 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.308971
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1080 packets seen, 1080 TCP packets traced
+#elapsed wallclock time: 0:00:00.416045, 2595 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.312806
+#TCP connection info:
+#15 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1167 packets seen, 1162 TCP packets traced
+#elapsed wallclock time: 0:00:00.509240, 2291 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.637501
+#TCP connection info:
+#17 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#804 packets seen, 802 TCP packets traced
+#elapsed wallclock time: 0:00:00.199081, 4038 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.220871
+#TCP connection info:
+#14 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Venmo/1/Venmo30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#645 packets seen, 641 TCP packets traced
+#elapsed wallclock time: 0:00:00.234260, 2753 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.975084
+#TCP connection info:
+#15 TCP connections traced:

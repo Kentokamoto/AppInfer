@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1690 packets seen, 1684 TCP packets traced
+#elapsed wallclock time: 0:00:00.085413, 19786 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.905611
+#TCP connection info:
+#21 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1081 packets seen, 1075 TCP packets traced
+#elapsed wallclock time: 0:00:00.109962, 9830 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.059071
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#138 packets seen, 132 TCP packets traced
+#elapsed wallclock time: 0:00:00.159193, 866 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.122541
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#130 packets seen, 130 TCP packets traced
+#elapsed wallclock time: 0:00:00.054125, 2401 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.353594
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 116 TCP packets traced
+#elapsed wallclock time: 0:00:00.057301, 2129 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.548820
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#132 packets seen, 130 TCP packets traced
+#elapsed wallclock time: 0:00:00.061475, 2147 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.600699
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 115 TCP packets traced
+#elapsed wallclock time: 0:00:00.049094, 2464 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.569888
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#113 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.115262, 980 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.174331
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 113 TCP packets traced
+#elapsed wallclock time: 0:00:00.047246, 2539 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.693217
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#115 packets seen, 109 TCP packets traced
+#elapsed wallclock time: 0:00:00.043443, 2647 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.513707
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 116 TCP packets traced
+#elapsed wallclock time: 0:00:00.077460, 1549 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.365673
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.053313, 2307 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.464977
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.053273, 2308 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.752216
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#120 packets seen, 118 TCP packets traced
+#elapsed wallclock time: 0:00:00.054037, 2220 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.000785
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#118 packets seen, 114 TCP packets traced
+#elapsed wallclock time: 0:00:00.079469, 1484 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.672566
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#148 packets seen, 142 TCP packets traced
+#elapsed wallclock time: 0:00:00.107661, 1374 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.472507
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 120 TCP packets traced
+#elapsed wallclock time: 0:00:00.090456, 1370 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.140814
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#125 packets seen, 119 TCP packets traced
+#elapsed wallclock time: 0:00:00.105243, 1187 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.528471
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 127 TCP packets traced
+#elapsed wallclock time: 0:00:00.078966, 1633 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.922813
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#130 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.065984, 1970 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.381768
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 36 TCP packets traced
+#elapsed wallclock time: 0:00:00.037525, 1065 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.085728
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#119 packets seen, 113 TCP packets traced
+#elapsed wallclock time: 0:00:00.171319, 694 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.213513
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#166 packets seen, 144 TCP packets traced
+#elapsed wallclock time: 0:00:00.084983, 1953 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.495133
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.098040, 1111 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.501500
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#122 packets seen, 115 TCP packets traced
+#elapsed wallclock time: 0:00:00.086336, 1413 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.381841
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 125 TCP packets traced
+#elapsed wallclock time: 0:00:00.076807, 1679 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.534273
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 122 TCP packets traced
+#elapsed wallclock time: 0:00:00.066376, 1868 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.502174
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#201 packets seen, 193 TCP packets traced
+#elapsed wallclock time: 0:00:00.166848, 1204 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.087168
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 117 TCP packets traced
+#elapsed wallclock time: 0:00:00.058387, 2106 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.706551
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/BankOfAmerica/1/BankOfAmerica30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#124 packets seen, 118 TCP packets traced
+#elapsed wallclock time: 0:00:00.079075, 1568 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.760361
+#TCP connection info:
+#5 TCP connections traced:

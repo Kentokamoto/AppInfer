@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#381 packets seen, 379 TCP packets traced
+#elapsed wallclock time: 0:00:00.118101, 3226 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.361402
+#TCP connection info:
+#13 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.073578, 1168 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.488866
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.066375, 1280 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.118347
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#84 packets seen, 83 TCP packets traced
+#elapsed wallclock time: 0:00:00.058241, 1442 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.214553
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.063142, 1362 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.860331
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.057865, 1555 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.158539
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.059545, 1444 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.487883
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.081035, 1061 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.893265
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#96 packets seen, 96 TCP packets traced
+#elapsed wallclock time: 0:00:00.054149, 1772 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.433413
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#84 packets seen, 84 TCP packets traced
+#elapsed wallclock time: 0:00:00.064859, 1295 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.337539
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#83 packets seen, 83 TCP packets traced
+#elapsed wallclock time: 0:00:00.061628, 1346 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.156821
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#89 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.049930, 1782 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.052971
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 87 TCP packets traced
+#elapsed wallclock time: 0:00:00.060093, 1447 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.157794
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.057948, 1466 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.184296
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 87 TCP packets traced
+#elapsed wallclock time: 0:00:00.062109, 1400 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.053803
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#84 packets seen, 84 TCP packets traced
+#elapsed wallclock time: 0:00:00.051686, 1625 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.144956
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#88 packets seen, 88 TCP packets traced
+#elapsed wallclock time: 0:00:00.093549, 940 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.129736
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.050639, 1698 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.136074
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 84 TCP packets traced
+#elapsed wallclock time: 0:00:00.055907, 1538 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.548956
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.059827, 1437 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.297811
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#100 packets seen, 98 TCP packets traced
+#elapsed wallclock time: 0:00:00.115932, 862 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.435154
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#88 packets seen, 88 TCP packets traced
+#elapsed wallclock time: 0:00:00.072180, 1219 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.057541
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#96 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.072466, 1324 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.371505
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#91 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.068687, 1324 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.237071
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.058696, 1567 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.291657
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.076336, 1205 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.277076
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#91 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.066302, 1372 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.563069
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.064949, 1416 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.307309
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#222 packets seen, 188 TCP packets traced
+#elapsed wallclock time: 0:00:00.223272, 994 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.177666
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/WellsFargo/1/WellsFargo30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.091868, 1164 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.651289
+#TCP connection info:
+#5 TCP connections traced:

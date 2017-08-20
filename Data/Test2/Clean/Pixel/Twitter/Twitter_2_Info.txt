@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#72 packets seen, 68 TCP packets traced
+#elapsed wallclock time: 0:00:00.710884, 101 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.083447
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#59 packets seen, 54 TCP packets traced
+#elapsed wallclock time: 0:00:00.529663, 111 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.442167
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.238465, 213 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.444978
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#59 packets seen, 59 TCP packets traced
+#elapsed wallclock time: 0:00:00.572270, 103 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.252515
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.225202, 213 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.635896
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#63 packets seen, 57 TCP packets traced
+#elapsed wallclock time: 0:00:00.548052, 114 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.173255
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.398491, 125 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.700336
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.448621, 109 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.555896
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#54 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:02.456278, 21 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.372453
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.561744, 85 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.392356
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.391793, 122 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.573595
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#54 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.229747, 235 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.544882
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.507827, 100 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.592182
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.299644, 160 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.619984
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#57 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.645930, 88 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.453130
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#56 packets seen, 56 TCP packets traced
+#elapsed wallclock time: 0:00:00.492994, 113 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.720406
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.281633, 184 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.593764
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.397007, 125 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.568323
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.693854, 70 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.711833
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.223874, 227 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.696343
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.419808, 119 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.485648
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.453853, 110 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.370598
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.547630, 89 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.392646
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.405119, 118 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.398163
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#56 packets seen, 56 TCP packets traced
+#elapsed wallclock time: 0:00:00.473249, 118 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.858011
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.488975, 106 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.683657
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.683576, 70 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.422926
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.307581, 156 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.502159
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 48 TCP packets traced
+#elapsed wallclock time: 0:00:00.205911, 252 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.655643
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Twitter/2/Twitter30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.414505, 120 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.521176
+#TCP connection info:
+#2 TCP connections traced:

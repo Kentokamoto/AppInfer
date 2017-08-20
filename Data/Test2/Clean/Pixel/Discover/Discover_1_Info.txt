@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1765 packets seen, 1719 TCP packets traced
+#elapsed wallclock time: 0:00:00.631134, 2796 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.498579
+#TCP connection info:
+#36 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2324 packets seen, 2257 TCP packets traced
+#elapsed wallclock time: 0:00:01.485452, 1564 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.372602
+#TCP connection info:
+#54 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2380 packets seen, 2292 TCP packets traced
+#elapsed wallclock time: 0:00:01.802299, 1320 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.359739
+#TCP connection info:
+#53 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2913 packets seen, 2566 TCP packets traced
+#elapsed wallclock time: 0:00:03.731726, 780 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.331284
+#TCP connection info:
+#64 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#7616 packets seen, 6483 TCP packets traced
+#elapsed wallclock time: 0:00:01.706090, 4464 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.655178
+#TCP connection info:
+#56 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#9223 packets seen, 9030 TCP packets traced
+#elapsed wallclock time: 0:00:01.168833, 7890 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.707601
+#TCP connection info:
+#56 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1940 packets seen, 1933 TCP packets traced
+#elapsed wallclock time: 0:00:00.669429, 2897 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.092816
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1527 packets seen, 1520 TCP packets traced
+#elapsed wallclock time: 0:00:00.382832, 3988 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.945781
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1585 packets seen, 1575 TCP packets traced
+#elapsed wallclock time: 0:00:00.274694, 5770 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.881537
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1556 packets seen, 1547 TCP packets traced
+#elapsed wallclock time: 0:00:00.732269, 2124 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.899673
+#TCP connection info:
+#32 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1492 packets seen, 1488 TCP packets traced
+#elapsed wallclock time: 0:00:01.571186, 949 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.200209
+#TCP connection info:
+#26 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1599 packets seen, 1579 TCP packets traced
+#elapsed wallclock time: 0:00:00.705678, 2265 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.542158
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1489 packets seen, 1479 TCP packets traced
+#elapsed wallclock time: 0:00:00.493298, 3018 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.102751
+#TCP connection info:
+#26 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1612 packets seen, 1608 TCP packets traced
+#elapsed wallclock time: 0:00:00.256436, 6286 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.486148
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1860 packets seen, 1847 TCP packets traced
+#elapsed wallclock time: 0:00:05.198243, 357 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.618911
+#TCP connection info:
+#131 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1748 packets seen, 1699 TCP packets traced
+#elapsed wallclock time: 0:00:01.090271, 1603 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.964763
+#TCP connection info:
+#55 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#2545 packets seen, 2526 TCP packets traced
+#elapsed wallclock time: 0:00:00.667245, 3814 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.932855
+#TCP connection info:
+#35 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1626 packets seen, 1603 TCP packets traced
+#elapsed wallclock time: 0:00:00.584901, 2779 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.824330
+#TCP connection info:
+#43 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1518 packets seen, 1504 TCP packets traced
+#elapsed wallclock time: 0:00:00.344327, 4408 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.753756
+#TCP connection info:
+#32 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1539 packets seen, 1532 TCP packets traced
+#elapsed wallclock time: 0:00:00.605477, 2541 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.704772
+#TCP connection info:
+#35 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1653 packets seen, 1647 TCP packets traced
+#elapsed wallclock time: 0:00:01.004096, 1646 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.355449
+#TCP connection info:
+#34 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1661 packets seen, 1643 TCP packets traced
+#elapsed wallclock time: 0:00:00.550742, 3015 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.968036
+#TCP connection info:
+#57 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1503 packets seen, 1488 TCP packets traced
+#elapsed wallclock time: 0:00:00.407450, 3688 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.631160
+#TCP connection info:
+#27 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1618 packets seen, 1607 TCP packets traced
+#elapsed wallclock time: 0:00:00.281931, 5738 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.094396
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1457 packets seen, 1449 TCP packets traced
+#elapsed wallclock time: 0:00:00.631851, 2305 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.307395
+#TCP connection info:
+#25 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1568 packets seen, 1557 TCP packets traced
+#elapsed wallclock time: 0:00:00.368058, 4260 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.972413
+#TCP connection info:
+#31 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1574 packets seen, 1568 TCP packets traced
+#elapsed wallclock time: 0:00:00.265030, 5938 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.527159
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1531 packets seen, 1525 TCP packets traced
+#elapsed wallclock time: 0:00:00.266600, 5742 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.626614
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1442 packets seen, 1422 TCP packets traced
+#elapsed wallclock time: 0:00:00.592207, 2434 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.904077
+#TCP connection info:
+#24 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Discover/1/Discover30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1531 packets seen, 1519 TCP packets traced
+#elapsed wallclock time: 0:00:00.564231, 2713 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.385473
+#TCP connection info:
+#26 TCP connections traced:

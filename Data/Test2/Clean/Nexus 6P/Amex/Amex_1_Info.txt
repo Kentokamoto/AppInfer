@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#40 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.068193, 586 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.513506
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#82 packets seen, 80 TCP packets traced
+#elapsed wallclock time: 0:00:00.094134, 871 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.496936
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#81 packets seen, 79 TCP packets traced
+#elapsed wallclock time: 0:00:00.120140, 674 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.520713
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#86 packets seen, 82 TCP packets traced
+#elapsed wallclock time: 0:00:00.099950, 860 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.084306
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#77 packets seen, 77 TCP packets traced
+#elapsed wallclock time: 0:00:00.132144, 582 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.568525
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#134 packets seen, 127 TCP packets traced
+#elapsed wallclock time: 0:00:00.272847, 491 pkts/sec analyzed
+#trace file elapsed time: 0:00:05.013974
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.224816, 378 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.880564
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#79 packets seen, 77 TCP packets traced
+#elapsed wallclock time: 0:00:00.126712, 623 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.426630
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#79 packets seen, 77 TCP packets traced
+#elapsed wallclock time: 0:00:00.139179, 567 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.450590
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#77 packets seen, 77 TCP packets traced
+#elapsed wallclock time: 0:00:00.129854, 592 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.821820
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#22 packets seen, 20 TCP packets traced
+#elapsed wallclock time: 0:00:00.112076, 196 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.741856
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#87 packets seen, 78 TCP packets traced
+#elapsed wallclock time: 0:00:00.141044, 616 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.572459
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#76 packets seen, 76 TCP packets traced
+#elapsed wallclock time: 0:00:00.093924, 809 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.495800
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#78 packets seen, 78 TCP packets traced
+#elapsed wallclock time: 0:00:00.103836, 751 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.511196
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#81 packets seen, 81 TCP packets traced
+#elapsed wallclock time: 0:00:00.219595, 368 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.598179
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#80 packets seen, 80 TCP packets traced
+#elapsed wallclock time: 0:00:00.104551, 765 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.623482
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#84 packets seen, 84 TCP packets traced
+#elapsed wallclock time: 0:00:00.174402, 481 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.645394
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#99 packets seen, 97 TCP packets traced
+#elapsed wallclock time: 0:00:00.193821, 510 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.758132
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#77 packets seen, 77 TCP packets traced
+#elapsed wallclock time: 0:00:00.101531, 758 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.462150
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#82 packets seen, 80 TCP packets traced
+#elapsed wallclock time: 0:00:00.090401, 907 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.493300
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#93 packets seen, 82 TCP packets traced
+#elapsed wallclock time: 0:00:00.181166, 513 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.511861
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#78 packets seen, 78 TCP packets traced
+#elapsed wallclock time: 0:00:00.136666, 570 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.503185
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#81 packets seen, 79 TCP packets traced
+#elapsed wallclock time: 0:00:00.107532, 753 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.549215
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#100 packets seen, 79 TCP packets traced
+#elapsed wallclock time: 0:00:00.144617, 691 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.025037
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#80 packets seen, 80 TCP packets traced
+#elapsed wallclock time: 0:00:00.115420, 693 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.499868
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#78 packets seen, 78 TCP packets traced
+#elapsed wallclock time: 0:00:00.143235, 544 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.596868
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#80 packets seen, 78 TCP packets traced
+#elapsed wallclock time: 0:00:00.151957, 526 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.486651
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.251921, 357 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.635978
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#88 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.189847, 463 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.406391
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Nexus 6P/Amex/1/Amex30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 88 TCP packets traced
+#elapsed wallclock time: 0:00:00.222489, 404 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.887861
+#TCP connection info:
+#5 TCP connections traced:

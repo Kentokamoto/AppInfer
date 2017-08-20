@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#165 packets seen, 153 TCP packets traced
+#elapsed wallclock time: 0:00:00.158034, 1044 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.353531
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#85 packets seen, 85 TCP packets traced
+#elapsed wallclock time: 0:00:00.096119, 884 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.369331
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.100701, 1062 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.171578
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.120602, 887 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.670361
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#102 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.129669, 786 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.217997
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#144 packets seen, 142 TCP packets traced
+#elapsed wallclock time: 0:00:00.461235, 312 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.571566
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.177346, 597 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.444496
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.105709, 1050 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.217404
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.090089, 1198 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.382525
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.095965, 1094 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.563315
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.107268, 1006 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.501525
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.107411, 977 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.232876
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 110 TCP packets traced
+#elapsed wallclock time: 0:00:00.122059, 901 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.507587
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 107 TCP packets traced
+#elapsed wallclock time: 0:00:00.097813, 1104 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.331242
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#109 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.113993, 956 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.680075
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.111668, 940 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.207051
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.090944, 1176 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.423885
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#184 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.114934, 1600 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.351951
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#106 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.116618, 908 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.721976
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#111 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.147100, 754 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.329025
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.163276, 643 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.605741
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.124411, 868 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.526658
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.140161, 784 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.389364
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.134258, 834 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.785943
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.103212, 1036 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.166497
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.115914, 905 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.401939
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#107 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.104255, 1026 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.354497
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#102 packets seen, 102 TCP packets traced
+#elapsed wallclock time: 0:00:00.126117, 808 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.263543
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 104 TCP packets traced
+#elapsed wallclock time: 0:00:00.130204, 798 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.590703
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/CapitalOne/2/CapitalOne30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 105 TCP packets traced
+#elapsed wallclock time: 0:00:00.117458, 953 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.519432
+#TCP connection info:
+#5 TCP connections traced:

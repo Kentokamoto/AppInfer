@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#99 packets seen, 97 TCP packets traced
+#elapsed wallclock time: 0:00:00.140457, 704 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.871000
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#121 packets seen, 113 TCP packets traced
+#elapsed wallclock time: 0:00:00.097521, 1240 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.275957
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#23 packets seen, 23 TCP packets traced
+#elapsed wallclock time: 0:00:00.048680, 472 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.467714
+#TCP connection info:
+#1 TCP connection traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#219 packets seen, 209 TCP packets traced
+#elapsed wallclock time: 0:00:00.152876, 1432 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.179231
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#110 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.181703, 605 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.959195
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#130 packets seen, 121 TCP packets traced
+#elapsed wallclock time: 0:00:00.095055, 1367 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.985992
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#105 packets seen, 103 TCP packets traced
+#elapsed wallclock time: 0:00:00.093629, 1121 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.668777
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#156 packets seen, 150 TCP packets traced
+#elapsed wallclock time: 0:00:00.110328, 1413 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.069027
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#175 packets seen, 167 TCP packets traced
+#elapsed wallclock time: 0:00:00.121353, 1442 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.061256
+#TCP connection info:
+#10 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#103 packets seen, 97 TCP packets traced
+#elapsed wallclock time: 0:00:00.123028, 837 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.897176
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 92 TCP packets traced
+#elapsed wallclock time: 0:00:00.098628, 932 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.333054
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#119 packets seen, 112 TCP packets traced
+#elapsed wallclock time: 0:00:00.092496, 1286 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.595191
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#147 packets seen, 139 TCP packets traced
+#elapsed wallclock time: 0:00:00.104132, 1411 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.521895
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#176 packets seen, 166 TCP packets traced
+#elapsed wallclock time: 0:00:00.154900, 1136 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.593213
+#TCP connection info:
+#11 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 86 TCP packets traced
+#elapsed wallclock time: 0:00:00.106737, 861 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.660852
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#114 packets seen, 112 TCP packets traced
+#elapsed wallclock time: 0:00:00.105448, 1081 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.893698
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#135 packets seen, 125 TCP packets traced
+#elapsed wallclock time: 0:00:00.184038, 733 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.406019
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#117 packets seen, 111 TCP packets traced
+#elapsed wallclock time: 0:00:00.097292, 1202 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.749161
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#172 packets seen, 163 TCP packets traced
+#elapsed wallclock time: 0:00:00.082026, 2096 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.168207
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#210 packets seen, 204 TCP packets traced
+#elapsed wallclock time: 0:00:00.141735, 1481 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.236383
+#TCP connection info:
+#12 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#195 packets seen, 185 TCP packets traced
+#elapsed wallclock time: 0:00:00.117834, 1654 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.444784
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 40 TCP packets traced
+#elapsed wallclock time: 0:00:00.054106, 813 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.249015
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#199 packets seen, 191 TCP packets traced
+#elapsed wallclock time: 0:00:00.122673, 1622 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.902229
+#TCP connection info:
+#17 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 100 TCP packets traced
+#elapsed wallclock time: 0:00:00.092693, 1121 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.028005
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#150 packets seen, 142 TCP packets traced
+#elapsed wallclock time: 0:00:00.078721, 1905 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.170640
+#TCP connection info:
+#9 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#74 packets seen, 71 TCP packets traced
+#elapsed wallclock time: 0:00:00.064543, 1146 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.875693
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#108 packets seen, 106 TCP packets traced
+#elapsed wallclock time: 0:00:00.093421, 1156 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.816796
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#123 packets seen, 112 TCP packets traced
+#elapsed wallclock time: 0:00:00.125758, 978 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.780536
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#114 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.077882, 1463 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.592478
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/USAA/1/USAA30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#151 packets seen, 147 TCP packets traced
+#elapsed wallclock time: 0:00:00.084036, 1796 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.995114
+#TCP connection info:
+#9 TCP connections traced:

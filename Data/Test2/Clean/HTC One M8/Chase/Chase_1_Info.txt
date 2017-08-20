@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#90 packets seen, 81 TCP packets traced
+#elapsed wallclock time: 0:00:01.187634, 75 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.871427
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#1155 packets seen, 1143 TCP packets traced
+#elapsed wallclock time: 0:00:05.244221, 220 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.379086
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#344 packets seen, 342 TCP packets traced
+#elapsed wallclock time: 0:00:00.247518, 1389 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.921117
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#129 packets seen, 123 TCP packets traced
+#elapsed wallclock time: 0:00:00.237220, 543 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.686817
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 90 TCP packets traced
+#elapsed wallclock time: 0:00:00.098723, 931 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.041864
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#131 packets seen, 129 TCP packets traced
+#elapsed wallclock time: 0:00:00.137762, 950 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.487296
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.118670, 429 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.500579
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#69 packets seen, 67 TCP packets traced
+#elapsed wallclock time: 0:00:00.049065, 1406 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.535393
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#91 packets seen, 89 TCP packets traced
+#elapsed wallclock time: 0:00:00.044263, 2055 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.980465
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#93 packets seen, 93 TCP packets traced
+#elapsed wallclock time: 0:00:00.120348, 772 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.096340
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#99 packets seen, 93 TCP packets traced
+#elapsed wallclock time: 0:00:00.111746, 885 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.807173
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#59 packets seen, 57 TCP packets traced
+#elapsed wallclock time: 0:00:00.034005, 1735 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.379637
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#74 packets seen, 72 TCP packets traced
+#elapsed wallclock time: 0:00:00.028103, 2633 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.388598
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#136 packets seen, 130 TCP packets traced
+#elapsed wallclock time: 0:00:00.110443, 1231 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.346381
+#TCP connection info:
+#7 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#69 packets seen, 67 TCP packets traced
+#elapsed wallclock time: 0:00:00.050305, 1371 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.664186
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#78 packets seen, 76 TCP packets traced
+#elapsed wallclock time: 0:00:00.032807, 2377 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.600633
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#93 packets seen, 91 TCP packets traced
+#elapsed wallclock time: 0:00:00.058162, 1598 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.327878
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#74 packets seen, 72 TCP packets traced
+#elapsed wallclock time: 0:00:00.046722, 1583 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.538951
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#61 packets seen, 61 TCP packets traced
+#elapsed wallclock time: 0:00:00.032942, 1851 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.280363
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#88 packets seen, 88 TCP packets traced
+#elapsed wallclock time: 0:00:00.037631, 2338 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.050070
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#112 packets seen, 108 TCP packets traced
+#elapsed wallclock time: 0:00:00.066706, 1679 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.772463
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#78 packets seen, 78 TCP packets traced
+#elapsed wallclock time: 0:00:00.033584, 2322 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.727506
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#91 packets seen, 87 TCP packets traced
+#elapsed wallclock time: 0:00:00.049955, 1821 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.430915
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#133 packets seen, 127 TCP packets traced
+#elapsed wallclock time: 0:00:00.117611, 1130 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.574154
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#104 packets seen, 96 TCP packets traced
+#elapsed wallclock time: 0:00:00.109002, 954 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.001419
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#57 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.041437, 1375 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.459530
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#74 packets seen, 72 TCP packets traced
+#elapsed wallclock time: 0:00:00.036086, 2050 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.839051
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#136 packets seen, 130 TCP packets traced
+#elapsed wallclock time: 0:00:00.121733, 1117 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.495223
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#78 packets seen, 76 TCP packets traced
+#elapsed wallclock time: 0:00:00.050536, 1543 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.735479
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/HTC One M8/Chase/1/Chase30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#134 packets seen, 132 TCP packets traced
+#elapsed wallclock time: 0:00:00.133774, 1001 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.599476
+#TCP connection info:
+#6 TCP connections traced:

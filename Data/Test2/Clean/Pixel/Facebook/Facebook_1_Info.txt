@@ -1,0 +1,240 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#31 packets seen, 28 TCP packets traced
+#elapsed wallclock time: 0:00:00.089089, 347 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.780066
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#30 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.067183, 446 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.645772
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#34 packets seen, 34 TCP packets traced
+#elapsed wallclock time: 0:00:00.099675, 341 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.713467
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#31 packets seen, 23 TCP packets traced
+#elapsed wallclock time: 0:00:00.087921, 352 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.759176
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#42 packets seen, 31 TCP packets traced
+#elapsed wallclock time: 0:00:00.166432, 252 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.655743
+#TCP connection info:
+#8 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#214 packets seen, 209 TCP packets traced
+#elapsed wallclock time: 0:00:00.359598, 595 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.591459
+#TCP connection info:
+#17 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.066929, 418 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.072008
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.057523, 486 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.314637
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.059655, 469 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.928371
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#25 packets seen, 23 TCP packets traced
+#elapsed wallclock time: 0:00:00.079933, 312 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.231433
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 23 TCP packets traced
+#elapsed wallclock time: 0:00:00.087064, 298 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.707456
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#142 packets seen, 136 TCP packets traced
+#elapsed wallclock time: 0:00:00.071932, 1974 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.613074
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.049262, 568 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.671615
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#144 packets seen, 137 TCP packets traced
+#elapsed wallclock time: 0:00:00.087827, 1639 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.073379
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#27 packets seen, 23 TCP packets traced
+#elapsed wallclock time: 0:00:00.077006, 350 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.573056
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#27 packets seen, 25 TCP packets traced
+#elapsed wallclock time: 0:00:00.095038, 284 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.129811
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.099135, 353 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.827894
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#35 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.088866, 393 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.113834
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.050479, 475 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.416875
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#28 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.050287, 556 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.790173
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.061926, 387 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.368394
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.058853, 407 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.728251
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#25 packets seen, 23 TCP packets traced
+#elapsed wallclock time: 0:00:00.076188, 328 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.297048
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#26 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.060730, 428 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.109518
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#30 packets seen, 24 TCP packets traced
+#elapsed wallclock time: 0:00:00.050973, 588 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.392840
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 41 TCP packets traced
+#elapsed wallclock time: 0:00:00.096275, 446 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.766715
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#24 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.068907, 348 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.379618
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#92 packets seen, 80 TCP packets traced
+#elapsed wallclock time: 0:00:00.172394, 533 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.531876
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#22 packets seen, 22 TCP packets traced
+#elapsed wallclock time: 0:00:00.075545, 291 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.313286
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Facebook/1/Facebook30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#30 packets seen, 28 TCP packets traced
+#elapsed wallclock time: 0:00:00.093567, 320 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.672457
+#TCP connection info:
+#4 TCP connections traced:
