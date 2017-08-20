@@ -1,0 +1,480 @@
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 38 TCP packets traced
+#elapsed wallclock time: 0:00:00.066354, 663 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.107448
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat01.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.061458, 797 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.250766
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.037827, 1136 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.470207
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat02.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#53 packets seen, 53 TCP packets traced
+#elapsed wallclock time: 0:00:00.133357, 397 pkts/sec analyzed
+#trace file elapsed time: 0:00:04.210645
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#54 packets seen, 52 TCP packets traced
+#elapsed wallclock time: 0:00:00.059195, 912 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.029755
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat03.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.059694, 854 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.375297
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.049100, 346 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.527643
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat04.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.043828, 1140 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.301109
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.030613, 555 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.705593
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat05.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 52 TCP packets traced
+#elapsed wallclock time: 0:00:00.040626, 1279 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.523551
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.046479, 1097 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.131432
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat06.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.054588, 934 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.330458
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#54 packets seen, 54 TCP packets traced
+#elapsed wallclock time: 0:00:00.027717, 1948 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.586268
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat07.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.042381, 1179 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.270055
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.034308, 1253 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.420081
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat08.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.039225, 1300 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.477851
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#36 packets seen, 34 TCP packets traced
+#elapsed wallclock time: 0:00:00.041971, 857 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.882743
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat09.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.052108, 978 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.821026
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.031454, 1589 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.127939
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat10.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#55 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.053920, 1020 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.263937
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.062224, 691 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.436932
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat11.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#59 packets seen, 59 TCP packets traced
+#elapsed wallclock time: 0:00:00.045200, 1305 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.439335
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.042452, 1177 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.375256
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat12.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.033525, 1491 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.346899
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.028608, 1503 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.598154
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat13.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.053302, 938 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.292092
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.033186, 1536 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.360731
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat14.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#53 packets seen, 53 TCP packets traced
+#elapsed wallclock time: 0:00:00.135880, 390 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.031814
+#TCP connection info:
+#5 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.035540, 1463 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.001606
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat15.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#82 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.052445, 1563 pkts/sec analyzed
+#trace file elapsed time: 0:00:03.522311
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.047683, 901 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.560730
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat16.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.060675, 824 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.244413
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#33 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.040678, 811 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.437131
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat17.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#57 packets seen, 57 TCP packets traced
+#elapsed wallclock time: 0:00:00.068474, 832 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.388767
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#46 packets seen, 46 TCP packets traced
+#elapsed wallclock time: 0:00:00.046594, 987 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.534899
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat18.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#54 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.060689, 889 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.435657
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#17 packets seen, 17 TCP packets traced
+#elapsed wallclock time: 0:00:00.031328, 542 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.266979
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat19.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.043008, 1185 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.760542
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.041942, 1025 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.743965
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat20.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#56 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.027510, 2035 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.463708
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#43 packets seen, 43 TCP packets traced
+#elapsed wallclock time: 0:00:00.030278, 1420 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.913256
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat21.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.062650, 814 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.293451
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#55 packets seen, 55 TCP packets traced
+#elapsed wallclock time: 0:00:00.054068, 1017 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.448519
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat22.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#66 packets seen, 65 TCP packets traced
+#elapsed wallclock time: 0:00:00.022558, 2925 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.798458
+#TCP connection info:
+#6 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#48 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.051755, 927 pkts/sec analyzed
+#trace file elapsed time: 0:00:01.167747
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat23.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#55 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.036632, 1501 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.827863
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#33 packets seen, 33 TCP packets traced
+#elapsed wallclock time: 0:00:00.057399, 574 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.552856
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat24.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#64 packets seen, 58 TCP packets traced
+#elapsed wallclock time: 0:00:00.063185, 1012 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.818336
+#TCP connection info:
+#4 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#53 packets seen, 53 TCP packets traced
+#elapsed wallclock time: 0:00:00.027035, 1960 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.466711
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat25.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#49 packets seen, 49 TCP packets traced
+#elapsed wallclock time: 0:00:00.049889, 982 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.305293
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#45 packets seen, 45 TCP packets traced
+#elapsed wallclock time: 0:00:00.032653, 1378 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.749816
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat26.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.036881, 1382 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.275958
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#34 packets seen, 34 TCP packets traced
+#elapsed wallclock time: 0:00:00.034570, 983 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.880579
+#TCP connection info:
+#2 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat27.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#51 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.034707, 1469 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.257983
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.030485, 1640 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.790123
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat28.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#52 packets seen, 51 TCP packets traced
+#elapsed wallclock time: 0:00:00.066072, 787 pkts/sec analyzed
+#trace file elapsed time: 0:00:02.542050
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#44 packets seen, 44 TCP packets traced
+#elapsed wallclock time: 0:00:00.064866, 678 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.494525
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat29.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.067447, 741 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.264063
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/1/Snapchat30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#47 packets seen, 47 TCP packets traced
+#elapsed wallclock time: 0:00:00.031325, 1500 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.950869
+#TCP connection info:
+#3 TCP connections traced:
+#1 arg remaining, starting with './Data/Test2/Raw/Pixel/Snapchat/2/Snapchat30.pcapng'
+#Ostermann's tcptrace -- version 6.6.7 -- Thu Nov  4, 2004
+
+#50 packets seen, 50 TCP packets traced
+#elapsed wallclock time: 0:00:00.037505, 1333 pkts/sec analyzed
+#trace file elapsed time: 0:00:00.273324
+#TCP connection info:
+#3 TCP connections traced:

@@ -80,54 +80,53 @@ def getDeltaTime(initial, final):
 
 
 # Condense the csv file so it is in proper order for scikitlearn
-def cleanData(f,fileNum,dev):
-    for week in range(1,3):
-        outputFile ="./Data/Test2/Clean/" + dev + "/" + f + "/" + str(week) + "/" + f+"%02d"%fileNum+".csv"  #CSV File Name
-        newCols = []
-        rowData = []
-        #print(outputFile)
-        fb = pd.read_csv(outputFile,skipinitialspace=True)
-        # Lists are 1 indexed so need to be changed so they are 0 indexed
-        for index, row in fb.iterrows():
-            first = row['first_packet']
-            last = row['last_packet']
-            final = getDeltaTime(first, last)
-            fb['delta'] = final 
+def cleanData(f,fileNum,dev, week):
+    outputFile ="./Data/Test2/Clean/" + dev + "/" + f + "/" + str(week) + "/" + f+"%02d"%fileNum+".csv"  #CSV File Name
+    newCols = []
+    rowData = []
+    print(outputFile)
+    fb = pd.read_csv(outputFile,skipinitialspace=True)
+    # Lists are 1 indexed so need to be changed so they are 0 indexed
+    for index, row in fb.iterrows():
+        first = row['first_packet']
+        last = row['last_packet']
+        final = getDeltaTime(first, last)
+        fb['delta'] = final 
 
-            values = row['SYN/FIN_pkts_sent_a2b'].split('/')
-            fb['SYN_pkts_sent_a2b'] = int(values[0])
-            fb['FIN_pkts_sent_a2b'] = int(values[1])
-       
-            values = row['SYN/FIN_pkts_sent_b2a'].split('/')
-            fb['SYN_pkts_sent_b2a'] = int(values[0])
-            fb['FIN_pkts_sent_b2a'] = int(values[1])
+        values = row['SYN/FIN_pkts_sent_a2b'].split('/')
+        fb['SYN_pkts_sent_a2b'] = int(values[0])
+        fb['FIN_pkts_sent_a2b'] = int(values[1])
+   
+        values = row['SYN/FIN_pkts_sent_b2a'].split('/')
+        fb['SYN_pkts_sent_b2a'] = int(values[0])
+        fb['FIN_pkts_sent_b2a'] = int(values[1])
 
-        # Do all Calculations on the do all array
-        for item in doAll:
-            newCols.append(item+"_sum")
-            newCols.append(item+"_mean")
-            newCols.append(item+"_max")
-            newCols.append(item+"_min")
+    # Do all Calculations on the do all array
+    for item in doAll:
+        newCols.append(item+"_sum")
+        newCols.append(item+"_mean")
+        newCols.append(item+"_max")
+        newCols.append(item+"_min")
 
-            rowData.append(fb[item].sum())
-            rowData.append(fb[item].mean())
-            rowData.append(fb[item].max())
-            rowData.append(fb[item].min())
-        
-        # Do all Calculations that require only mean
-        for item in avgOnly:
-            newCols.append(item+"_mean")
-            rowData.append(fb[item].mean())
-        
-        # Do all calculations that require only max
-        for item in maxOnly:
-            newCols.append(item+"_max")
-            rowData.append(fb[item].max())
-        
-        # Do all calculations that require only min
-        for item in minOnly:
-            newCols.append(item+"_min")
-            rowData.append(fb[item].min())
+        rowData.append(fb[item].sum())
+        rowData.append(fb[item].mean())
+        rowData.append(fb[item].max())
+        rowData.append(fb[item].min())
+    
+    # Do all Calculations that require only mean
+    for item in avgOnly:
+        newCols.append(item+"_mean")
+        rowData.append(fb[item].mean())
+    
+    # Do all calculations that require only max
+    for item in maxOnly:
+        newCols.append(item+"_max")
+        rowData.append(fb[item].max())
+    
+    # Do all calculations that require only min
+    for item in minOnly:
+        newCols.append(item+"_min")
+        rowData.append(fb[item].min())
         
     return rowData, newCols
 
